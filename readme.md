@@ -1,4 +1,4 @@
-开发环境：jdk 1.7  tomcat 8.5  mysql 5.5
+开发环境：jdk 1.7  tomcat 8.5  mysql 5.5 win10_64
 采用了主流的Struts2, Hibernate3并用Spring进行整合。
 共分为员工，部门经理，总经理三种角色。
 邮件，员工管理，考勤管理三个模块。
