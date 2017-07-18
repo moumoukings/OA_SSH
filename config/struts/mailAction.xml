@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+	<package name="mail" namespace="/mail" extends="struts-base">
+		<action name="*_init" class="mailInitAction" method="{1}">
+			<result name="success">${contentPageName }</result>
+		</action>
+		<action name="*_ajax" class="mailAjaxAction" method="{1}">
+			<result name="success" type="json">
+				<param name="root">resultMap</param>
+			</result>
+		</action>
+		<action name="download" class="fileDownAction">
+			<param name="inputPath">/upload</param>
+			<result name="success" type="stream">
+				<param name="contentType">application/octet-stream</param>
+				<param name="inputName">inputStream</param>
+				<param name="contentDisposition">attachment;filename="${fileName}"</param>
+				<param name="bufferSize">4096</param>
+			</result>
+		</action>
+	</package>
+	
+</struts>

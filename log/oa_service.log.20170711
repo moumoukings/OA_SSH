@@ -1,0 +1,324 @@
+[2017-07-11 08:22:43,731] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 08:22:43,731] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 08:22:46,301] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 08:22:46,301] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 08:22:46,321] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 08:22:46,321] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:26:54,655] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 11:26:54,655] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 11:27:06,902] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:27:06,902] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:27:10,080] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:27:10,080] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:27:10,096] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:27:10,096] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:27:51,337] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:27:51,337] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:27:51,341] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:27:51,341] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:38,786] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:28:38,786] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:28:38,793] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:38,793] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:42,204] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-11 11:28:42,204] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-11 11:28:42,208] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:42,208] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:44,896] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:28:44,896] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:28:44,900] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:28:44,900] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:45:36,693] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:45:36,693] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:45:38,558] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:45:38,558] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:45:38,578] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:45:38,578] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:52:55,882] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:52:55,882] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:52:57,683] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:52:57,683] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:52:57,707] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:52:57,707] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:56:09,656] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:56:09,656] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 11:56:11,524] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:56:11,524] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 11:56:11,543] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 11:56:11,543] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:00:09,538] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:00:09,538] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:00:11,449] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:00:11,449] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:00:11,471] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:00:11,471] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:13:17,002] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:13:17,002] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:13:21,978] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:13:21,978] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:13:21,995] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:13:21,995] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:13:38,162] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:13:38,162] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:13:38,165] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:13:38,165] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:14:06,387] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:14:06,387] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:14:06,392] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:14:06,392] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:14:16,888] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-11 12:14:16,888] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-11 12:14:16,894] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:14:16,894] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:14:19,098] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：3  3
+[2017-07-11 12:14:19,098] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：3  3
+[2017-07-11 12:14:19,101] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-11 12:14:19,101] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-11 12:30:42,356] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:30:42,356] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 12:30:46,337] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:30:46,337] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:30:46,356] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:30:46,356] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:31:04,164] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:31:04,164] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:31:04,168] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:31:04,168] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:31:44,686] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:31:44,686] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 12:31:44,690] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 12:31:44,690] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:39:10,894] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:39:10,894] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:39:12,999] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:39:12,999] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:39:13,017] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:39:13,017] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:40:07,410] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:40:07,410] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:40:07,413] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:40:07,413] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:42:30,106] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:42:30,106] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:42:30,109] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:42:30,109] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:44:31,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:44:31,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:44:34,040] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:44:34,040] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:44:34,060] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:44:34,060] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:45:08,714] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:45:08,714] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:48:29,838] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:48:29,838] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:48:30,222] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:48:30,222] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:48:56,861] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:48:56,861] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:48:58,887] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:48:58,887] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:48:58,890] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:48:58,890] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:49:12,800] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:49:12,800] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:49:42,429] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:49:42,429] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:49:42,434] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:49:42,434] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:50:57,533] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:50:57,533] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:50:59,570] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:50:59,570] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:50:59,589] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:50:59,589] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:51:07,778] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:51:07,778] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=1234, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-11 13:51:14,209] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:51:14,209] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:51:14,214] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:51:14,214] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:55:49,616] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:55:49,616] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 13:55:51,540] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:55:51,540] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:55:51,559] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:55:51,559] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:56:27,705] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=null, name=e1, password=null, age=24, phoneNum=15522334455, address=霍山路, sex=男]
+[2017-07-11 13:56:27,705] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=null, name=e1, password=null, age=24, phoneNum=15522334455, address=霍山路, sex=男]
+[2017-07-11 13:56:27,821] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:56:27,821] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-11 13:56:27,824] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 13:56:27,824] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-11 16:14:51,979] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 16:14:51,979] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-11 16:15:14,677] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:15:14,677] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:17:26,678] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:17:26,678] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:26:30,719] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:26:30,719] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:27:05,997] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Fri Aug 04 00:00:00 CST 2017, days=null, reason=tt, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:27:05,997] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Fri Aug 04 00:00:00 CST 2017, days=null, reason=tt, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:27:05,997] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:27:05,997] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:27:05,998] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:27:05 CST 2017, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Fri Aug 04 00:00:00 CST 2017, event=tt]
+[2017-07-11 16:27:05,998] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:27:05 CST 2017, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Fri Aug 04 00:00:00 CST 2017, event=tt]
+[2017-07-11 16:42:44,556] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:42:44,556] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:43:11,547] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Fri Jul 14 00:00:00 CST 2017, endDate=Sat Aug 05 00:00:00 CST 2017, days=null, reason=mm, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:43:11,547] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Fri Jul 14 00:00:00 CST 2017, endDate=Sat Aug 05 00:00:00 CST 2017, days=null, reason=mm, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:43:11,548] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:43:11,548] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:43:11,548] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:43:11 CST 2017, startDate=Fri Jul 14 00:00:00 CST 2017, endDate=Sat Aug 05 00:00:00 CST 2017, event=mm]
+[2017-07-11 16:43:11,548] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:43:11 CST 2017, startDate=Fri Jul 14 00:00:00 CST 2017, endDate=Sat Aug 05 00:00:00 CST 2017, event=mm]
+[2017-07-11 16:46:06,294] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:46:06,294] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 16:46:44,225] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, days=null, reason=å¤´ç¼, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:46:44,225] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [id=null, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, days=null, reason=å¤´ç¼, approveName=null, comment=null, approveDate=null]
+[2017-07-11 16:46:44,225] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:46:44,225] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-11 16:46:44,226] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:46:44 CST 2017, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, event=å¤´ç¼]
+[2017-07-11 16:46:44,226] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:46:44 CST 2017, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, event=å¤´ç¼]
+[2017-07-11 16:47:18,222] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 16:47:18,222] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:13:24,504] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:13:24,504] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:13:29,643] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:13:29,643] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:16:45,679] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:16:45,679] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:16:49,152] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:16:49,152] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:19:18,547] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:19:18,547] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:19:20,890] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:19:20,890] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:19:20,912] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:19:20,912] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:19:20,912] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:19:20,912] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:21:19,072] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:21:19,072] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:21:21,209] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:21:21,209] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:21:21,234] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:21:21,234] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:21:21,235] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:21:21,235] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:21:21,238] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:21:21,238] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:22:40,457] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:22:40,457] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:22:40,462] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:22:40,462] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:22:40,463] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:22:40,463] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:22:40,464] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:22:40,464] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:25:09,636] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:25:09,636] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:25:12,121] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:25:12,121] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:25:12,144] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:25:12,144] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:25:12,145] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:25:12,145] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:25:12,149] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:25:12,149] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:26:55,711] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:26:55,711] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:26:55,716] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:26:55,716] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:26:55,716] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:26:55,716] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:26:55,718] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:26:55,718] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:29:25,753] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:29:25,753] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:29:28,774] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:29:28,774] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:29:28,805] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:29:28,805] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:29:28,805] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:29:28,805] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:29:28,809] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:29:28,809] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:31:06,609] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:31:06,609] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:31:11,880] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:31:11,880] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:31:11,901] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:31:11,901] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:31:11,902] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:31:11,902] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:31:11,904] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:31:11,904] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:33:22,105] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:33:22,105] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:33:24,323] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:33:24,323] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:33:24,354] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:33:24,354] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:33:24,354] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:33:24,354] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:33:24,358] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:33:24,358] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:34:49,428] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:34:49,428] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:34:56,035] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:34:56,035] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:34:56,071] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:34:56,071] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:34:56,071] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:34:56,071] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:34:56,075] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:34:56,075] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:39:01,231] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:39:01,231] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-11 18:39:03,384] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:39:03,384] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {creator.empId=1}
+[2017-07-11 18:39:03,411] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:39:03,411] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:39:03,411] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:39:03,411] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-11 18:39:03,414] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-11 18:39:03,414] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=3, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3

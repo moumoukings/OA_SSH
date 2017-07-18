@@ -1,0 +1,111 @@
+[2017-07-12 00:18:27,914] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 00:18:27,917] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 00:18:27,992] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 00:26:12,405] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-12 00:26:12,566] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-12 12:24:35,594] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 12:24:35,595] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 12:24:35,635] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 12:28:49,754] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-12 12:28:49,946] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-12 12:32:57,623] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 12:32:57,624] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 12:32:57,684] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 12:54:51,035] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 12:54:51,036] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 12:54:51,089] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 12:56:40,865] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-12 12:57:59,155] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 12:57:59,157] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 12:57:59,194] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 12:58:04,079] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-12 13:03:45,024] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 13:03:45,025] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 13:03:45,061] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 13:03:55,021] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:21:50,017] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:22:47,569] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:25:55,344] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-12 13:27:36,601] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:27:59,298] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-12 13:27:59,489] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-12 13:28:44,446] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:28:50,619] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-12 13:28:50,623] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-12 13:28:53,444] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:33:06,689] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 13:33:06,691] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 13:33:06,758] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 13:33:17,206] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-12 13:33:17,216] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=3, creator=e, startDate=2017-07-20, endDate=2017-08-24, days=null, reason=take a change, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-12 13:33:35,024] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-12 13:33:35,033] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=有事, leaveType=1, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-12 13:34:46,148] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：6
+[2017-07-12 13:34:46,154] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=6, creator=e, startDate=2016-10-20, endDate=2016-10-29, days=null, reason=mm, leaveType=1, approveName=null, comment=null, approveDate=null, istate=3, state=已过期]
+[2017-07-12 13:36:52,147] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：6
+[2017-07-12 13:36:52,152] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=6, creator=e, startDate=2016-10-20, endDate=2016-10-29, days=null, reason=mm, leaveType=1, approveName=null, comment=null, approveDate=null, istate=3, state=已过期]
+[2017-07-12 18:28:35,312] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:28:35,313] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:28:35,350] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:29:26,198] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:29:26,199] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:29:26,203] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:37:13,197] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:37:13,198] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:37:13,248] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:39:08,977] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:39:08,978] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:39:09,022] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:39:10,953] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-12 18:41:21,210] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:41:21,212] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:41:21,247] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:41:22,636] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-12 18:43:37,568] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:43:37,570] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:43:37,606] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:46:02,316] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:46:02,317] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:46:02,367] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:47:13,642] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:47:13,644] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:47:13,688] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:54:02,281] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 18:54:02,283] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 18:54:02,318] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 18:54:03,921] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.util.ConcurrentModificationException
+[2017-07-12 19:13:53,867] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 19:13:53,868] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 19:13:53,909] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 19:13:57,892] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.util.ConcurrentModificationException
+[2017-07-12 19:32:58,451] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 19:32:58,453] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 19:32:58,491] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 19:33:01,852] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.orm.hibernate3.HibernateSystemException: IllegalArgumentException occurred calling getter of com.jboa.entity.Role.id; nested exception is org.hibernate.PropertyAccessException: IllegalArgumentException occurred calling getter of com.jboa.entity.Role.id
+[2017-07-12 23:17:28,902] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:17:28,904] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 23:17:28,939] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 23:18:55,461] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-12 23:18:55,473] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, istate=-1, state=无效状态]
+[2017-07-12 23:19:00,245] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-12 23:19:00,257] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, istate=-1, state=无效状态]
+[2017-07-12 23:19:26,391] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:19:26,391] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 23:19:26,397] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 23:19:30,523] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-12 23:19:30,529] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, istate=-1, state=无效状态]
+[2017-07-12 23:26:17,372] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:26:17,373] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-12 23:26:17,417] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-12 23:47:49,360] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:47:49,362] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 23:47:49,392] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 23:47:51,569] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.orm.hibernate3.HibernateQueryException: Invalid path: 'leaveResult.result' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult.result=null  and state=:state and creator.role=:creator_role and creator.department.deptId=:creator_department_deptId]; nested exception is org.hibernate.hql.ast.QuerySyntaxException: Invalid path: 'leaveResult.result' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult.result=null  and state=:state and creator.role=:creator_role and creator.department.deptId=:creator_department_deptId]
+[2017-07-12 23:56:37,786] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:56:37,788] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 23:56:37,866] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 23:56:39,219] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.orm.hibernate3.HibernateQueryException: Invalid path: 'creator.role.id' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult=null  and creator.role.id=:creator_role_id and state=:state and creator.department.deptId=:creator_department_deptId]; nested exception is org.hibernate.hql.ast.QuerySyntaxException: Invalid path: 'creator.role.id' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult=null  and creator.role.id=:creator_role_id and state=:state and creator.department.deptId=:creator_department_deptId]
+[2017-07-12 23:58:40,078] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-12 23:58:40,081] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-12 23:58:40,117] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-12 23:58:41,447] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.orm.hibernate3.HibernateQueryException: Invalid path: 'creator.role.id' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult=null  and creator.role.id=:creator_role_id and state=:state and creator.department.deptId=:creator_department_deptId]; nested exception is org.hibernate.hql.ast.QuerySyntaxException: Invalid path: 'creator.role.id' [select count(*) from com.jboa.entity.Leave l left join l.leaveResult where 1=1  and leaveResult=null  and creator.role.id=:creator_role_id and state=:state and creator.department.deptId=:creator_department_deptId]

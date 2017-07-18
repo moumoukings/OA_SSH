@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+	<package name="employee" namespace="/employee" extends="struts-base">
+		<action name="login" class="employeeInitAction" method="login">
+			<result type="json" name="success">
+				<param name="root">resultMap</param>
+			</result>
+		</action>	
+		<action name="*_init" class="employeeInitAction" method="{1}">
+			<result name="success">${contentPageName}</result>
+		</action> 
+		<action name="update_ajax" class="employeeAjaxAction" method="update">
+			<result name="success" type="json">
+				<param name="root">resultMap</param>
+			</result>
+		</action>
+		<action name="add_ajax" class="employeeAjaxAction" method="add">
+			<result name="success" type="json">
+				<param name="root">resultMap</param>
+			</result>
+		</action>
+		<action name="checkNameAvail_ajax" class="employeeAjaxAction" method="checkNameAvail">
+			<result name="success" type="json">
+				<param name="root">available</param>
+			</result>
+		</action>
+		<action name="verifyPwd_ajax" class="employeeAjaxAction" method="verifyPwd">
+			<result name="success" type="json">
+				<param name="root">resultMap</param>
+			</result>
+		</action>		
+		<action name="delete_ajax" class="employeeInitAction" method="delete">
+			<result name="success" type="json">
+				<param name="root">resultMap</param>
+			</result>
+		</action>
+		<action name="*_operate" class="employeeOperateAction" method="{1}">
+			<result name="success">${contentPageName}</result>
+		</action>
+	</package>
+
+</struts>

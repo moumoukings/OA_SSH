@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://www.springframework.org/schema/beans"  
+	xmlns:mvc="http://www.springframework.org/schema/mvc" 
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context" 
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+	http://www.springframework.org/schema/mvc
+	http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-3.2.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
+	http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.2.xsd" default-autowire="byName">
+	
+	<context:annotation-config/>
+	<context:component-scan base-package="com.jboa"/>
+	
+	<!-- 加载数据库配置文件 -->
+	<context:property-placeholder location="classpath:jdbc.properties"/>
+	
+	<!-- dataSource -->
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close">
+		<property name="driverClass" value="${jdbc.driverClassName}"/>
+		<property name="jdbcUrl" value="${jdbc.url}"/>
+		<property name="user" value="${jdbc.username}"/>
+		<property name="password" value="${jdbc.password}"/>
+		<!-- 指定连接数据库连接池的最大连接数 -->
+		 <property name="maxPoolSize" value="${jdbc.maxPoolSize}"></property>
+		 <!-- 指定连接数据库连接池的最小连接数 -->
+		 <property name="minPoolSize" value="${jdbc.minPoolSize}"></property>
+		  <!-- 指定连接数据库连接池的初始化连接数 -->
+		  <property name="initialPoolSize" value="${jdbc.initialPoolSize}"></property>
+		  <!-- 指定连接数据库连接池的连接的最大空闲时间 -->
+		  <property name="maxIdleTime" value="${jdbc.maxIdleTime}"></property>
+	</bean>
+	
+	<!-- sessionFactory  -->
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource">
+			<ref bean="dataSource" />
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">
+					${jdbc.dialect}
+				</prop>
+				<prop key="show_sql">${hibernate.show_sql}</prop>
+				<prop key="format_sql">${hibernate.format_sql}</prop>
+			</props>
+		</property>
+		<property name="annotatedClasses">
+			<list>
+				<value>com.jboa.entity.Department</value>
+				<value>com.jboa.entity.Role</value>
+				<value>com.jboa.entity.Right</value>
+				<value>com.jboa.entity.RoleRight</value>
+				<value>com.jboa.entity.Employee</value>
+				<value>com.jboa.entity.Leave</value>
+				<value>com.jboa.entity.LeaveResult</value>
+				<value>com.jboa.entity.Mail</value>
+				<value>com.jboa.entity.MailContent</value>
+				<value>com.jboa.entity.Voucher</value>
+				<value>com.jboa.entity.VoucherDetails</value>
+				<value>com.jboa.entity.VoucherResult</value>
+			</list>
+		</property>
+	</bean>
+	
+	<!-- 配置声明式事务 -->
+	<!-- 创建事务管理器 -->
+	<bean id="myTransactionManager" class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+		<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+
+	<!-- 创建一个事务advice-->
+	<tx:advice id="txAdvice" transaction-manager="myTransactionManager">
+		<tx:attributes>
+			<tx:method name="add*" propagation="REQUIRED"></tx:method>
+			<tx:method name="del*" propagation="REQUIRED"></tx:method>
+			<tx:method name="update*" propagation="REQUIRED" ></tx:method>
+			<tx:method name="do*" propagation="REQUIRED"></tx:method>
+			<tx:method name="saveOrUpdate" propagation="REQUIRED"></tx:method>
+			<tx:method name="findObjectById" propagation="REQUIRED"></tx:method>
+			<!-- <tx:method name="*" propagation="SUPPORTS"></tx:method> -->
+		</tx:attributes>
+	</tx:advice>
+	
+	<aop:config proxy-target-class="true">
+		<aop:pointcut id="bizMethods" expression="execution(* com.jboa.service.*.*(..))" />
+		<aop:advisor advice-ref="txAdvice" pointcut-ref="bizMethods"></aop:advisor>
+	</aop:config>
+	
+</beans>

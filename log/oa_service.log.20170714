@@ -1,0 +1,362 @@
+[2017-07-14 00:08:14,044] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 00:08:14,044] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 00:08:16,602] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 00:08:16,602] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 00:08:16,620] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 00:08:16,620] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:46:23,629] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-14 11:46:23,629] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-14 11:46:37,828] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 11:46:37,828] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 11:46:39,785] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:46:39,785] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:46:39,801] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:46:39,801] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:46:51,662] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:46:51,662] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:46:51,667] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:46:51,667] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:06,839] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:06,839] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:06,845] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:06,845] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:12,609] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:12,609] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:12,620] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:12,620] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:26,858] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:26,858] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 11:47:26,862] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 11:47:26,862] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:49:11,880] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-14 19:49:11,880] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-14 19:49:42,393] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=null, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:49:42,393] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=null, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:49:42,396] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:49:42,396] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:49:42,396] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, createTime=Fri Jul 14 19:49:42 CST 2017, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:49:42,396] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=null, createTime=Fri Jul 14 19:49:42 CST 2017, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:49:42,634] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:49:42,634] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:49:42,699] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:42,699] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:42,699] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:42,699] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:42,720] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:42,720] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:52,010] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1, l.leaveResult.result=2}
+[2017-07-14 19:49:52,010] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1, l.leaveResult.result=2}
+[2017-07-14 19:49:52,014] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:52,014] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:52,014] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:52,014] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:52,016] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:52,016] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=13, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=13, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=13, createTime=2017-07-14 19:49:42.0, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:49:59,111] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=13, createTime=2017-07-14 19:49:42.0, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:49:59,145] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:49:59,145] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:49:59,151] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:59,151] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:59,151] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:59,151] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:49:59,155] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:49:59,155] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:03,784] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1, l.leaveResult.result=2}
+[2017-07-14 19:50:03,784] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1, l.leaveResult.result=2}
+[2017-07-14 19:50:03,791] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:03,791] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:03,791] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:50:03,791] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:50:03,792] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:03,792] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=2, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=13, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 新增/更新的请假信息为： DetailLeave [flag=true, id=13, creator=null, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, days=null, reason=tired, leaveType=0, istate=null, state=null, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 创建人信息为:Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男]
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=13, createTime=2017-07-14 19:49:42.0, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:50:10,297] INFO  [com.jboa.service.impl.LeaveServiceImpl]: 封装后的请假信息为：Leave [vacationId=13, createTime=2017-07-14 19:49:42.0, startDate=Sat Jul 15 00:00:00 CST 2017, endDate=Wed Jul 19 00:00:00 CST 2017, event=tired, leaveType=0, state=0]
+[2017-07-14 19:50:10,342] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:50:10,342] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:50:10,350] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:10,350] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:10,350] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:50:10,350] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:50:10,353] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:50:10,353] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:51:06,648] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:51:06,648] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:51:06,810] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:51:06,810] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:51:06,823] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:51:06,823] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:55:24,122] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:55:24,122] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 条件封装完成，相应的条件Map为： {l.creator.empId=1}
+[2017-07-14 19:55:24,125] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:55:24,125] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 查询到的leavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:55:24,126] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:55:24,126] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 准备封装为abstractLeave
+[2017-07-14 19:55:24,129] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:55:24,129] DEBUG [com.jboa.service.impl.LeaveServiceImpl]: 封装的abstractleavePager相关信息为：Pager [currentPage=1, pageSize=3, total=6, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:3] 
+长度为：3
+[2017-07-14 19:55:53,494] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 19:55:53,494] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 19:59:11,392] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:59:11,392] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:59:35,351] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 19:59:35,351] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：12345
+[2017-07-14 19:59:36,911] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:36,911] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:36,915] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:59:36,915] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:59:47,000] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=12345, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-14 19:59:47,000] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=3, name=mm, password=12345, age=35, phoneNum=13344555578, address=望江路, sex=女]
+[2017-07-14 19:59:50,971] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:50,971] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:50,975] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:59:50,975] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:59:56,786] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:59:56,786] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=1, name=e2, password=1234, age=21, phoneNum=13455667788, address=就在路, sex=男]
+[2017-07-14 19:59:56,818] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:56,818] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 19:59:56,821] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 19:59:56,821] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 20:01:00,409] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 20:01:00,409] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 20:01:00,412] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 20:01:00,412] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 20:01:23,094] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=null, name=e3, password=null, age=34, phoneNum=13344556677, address=ddd, sex=男]
+[2017-07-14 20:01:23,094] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 待更新的数据为：Employee [empId=null, name=e3, password=null, age=34, phoneNum=13344556677, address=ddd, sex=男]
+[2017-07-14 20:01:23,188] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 20:01:23,188] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-14 20:01:23,191] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 20:01:23,191] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-14 20:22:07,243] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-14 20:22:07,243] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e  密码为：1234
+[2017-07-14 20:22:11,305] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:22:11,305] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:25:05,796] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:25:05,796] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:28:45,785] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:28:45,785] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:39:23,010] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 20:39:23,010] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 21:18:05,835] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 21:18:05,835] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 21:35:17,771] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 21:35:17,771] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 21:59:41,288] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 21:59:41,288] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:01:04,295] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:01:04,295] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:01:07,404] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:01:07,404] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:02:16,438] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:02:16,438] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:02:20,364] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:02:20,364] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:04:07,117] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:04:07,117] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:04:10,099] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:04:10,099] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:04:10,129] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:04:10,129] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:04:25,921] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:04:25,921] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:04:25,935] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:04:25,935] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:07:57,681] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:07:57,681] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:07:57,685] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:07:57,685] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:09:10,627] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:09:10,627] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:09:10,631] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:09:10,631] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:12:13,141] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:12:13,141] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:12:13,144] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:12:13,144] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:20:40,024] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:20:40,024] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:20:43,082] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:20:43,082] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:20:43,123] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:20:43,123] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:25:51,363] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:25:51,363] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:25:51,369] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:25:51,369] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:25:58,516] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:25:58,516] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:25:58,520] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:25:58,520] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:25:59,622] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:25:59,622] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:25:59,624] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:25:59,624] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:26:00,840] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:26:00,840] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:26:00,843] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:26:00,843] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:31:50,435] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:31:50,435] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:31:52,738] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:31:52,738] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:31:52,764] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:31:52,764] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:33:04,891] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:33:04,891] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:33:04,896] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:33:04,896] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:33:05,952] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:33:05,952] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:33:05,954] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:33:05,954] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 22:33:15,904] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:33:15,904] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:33:15,906] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:33:15,906] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:25,102] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:49:25,102] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 22:49:32,007] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:49:32,007] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 22:49:32,028] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:32,028] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:35,235] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:49:35,235] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=9, m.receiveState=1}  
+开始执行查询！
+[2017-07-14 22:49:35,239] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:35,239] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:37,712] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sender.empId=9}  
+开始执行查询！
+[2017-07-14 22:49:37,712] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sender.empId=9}  
+开始执行查询！
+[2017-07-14 22:49:37,724] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:49:37,724] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:50:39,976] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 22:50:39,976] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 22:50:39,994] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 22:50:39,994] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:00:41,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 23:00:41,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 23:00:44,526] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:00:44,526] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:00:44,548] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:00:44,548] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:02:17,483] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 23:02:17,483] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e3  密码为：1234
+[2017-07-14 23:02:20,168] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:02:20,168] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:02:20,195] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:02:20,195] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:14:49,498] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:14:49,498] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:14:51,534] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 23:14:51,534] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 23:14:51,550] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:14:51,550] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:15:43,929] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 23:15:43,929] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.receiveState=0}  
+开始执行查询！
+[2017-07-14 23:15:43,933] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:15:43,933] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=1, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:1] 长度为：1
+[2017-07-14 23:35:16,097] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:35:16,097] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:35:16,100] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:35:16,100] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:35:19,252] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sender.empId=1}  
+开始执行查询！
+[2017-07-14 23:35:19,252] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.sender.empId=1}  
+开始执行查询！
+[2017-07-14 23:35:19,267] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=2, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:2] 长度为：2
+[2017-07-14 23:35:19,267] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=2, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:2] 长度为：2
+[2017-07-14 23:53:29,420] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:53:29,420] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:53:32,864] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.sender.empId=1, m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:53:32,864] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.sender.empId=1, m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:53:32,893] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:53:32,893] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:59:07,017] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:59:07,017] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：e2  密码为：1234
+[2017-07-14 23:59:09,671] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.sender.empId=1, m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:59:09,671] DEBUG [com.jboa.service.impl.MailServiceImpl]: 封装的条件为：{m.receiver.empId=1, m.sender.empId=1, m.sendState=5, m.receiveState=2}  
+开始执行查询！
+[2017-07-14 23:59:09,714] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0
+[2017-07-14 23:59:09,714] DEBUG [com.jboa.service.impl.MailServiceImpl]: 查询成功，返回的Pager信息为：Pager [currentPage=1, pageSize=3, total=0, pageCount=0, startRecord=0, hasPreviousPage=false, hasNextPage=false, onlyOnePage=false, pageRecords' sizes is:0] 长度为：0

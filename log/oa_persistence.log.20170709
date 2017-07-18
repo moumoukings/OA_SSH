@@ -1,0 +1,150 @@
+[2017-07-09 16:55:30,091] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 16:59:46,337] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:06:22,325] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:07:52,484] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:12:57,612] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:18:19,610] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:20:03,818] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:20:03,825] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:20:03,826] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:23:47,333] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:23:50,655] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:23:50,655] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:23:50,656] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:24:55,522] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:24:55,526] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:24:55,528] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:26:18,937] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:26:18,937] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:26:18,938] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:27:27,438] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:27:31,698] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:27:31,699] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:27:31,700] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:29:14,593] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:29:18,200] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:29:18,200] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:29:18,201] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:31:05,869] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:31:07,937] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:31:07,937] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:31:07,938] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:31:52,965] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:31:52,965] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:31:52,965] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:32:18,005] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:32:18,005] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:32:18,005] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:34:18,906] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:34:21,299] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:34:21,300] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:34:21,301] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:41:45,953] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:41:51,124] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:41:51,126] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:41:51,127] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:44:16,866] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:44:21,364] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:44:21,365] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:44:21,366] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:47:11,716] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:47:14,719] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:47:14,720] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:47:14,720] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:49:33,781] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:49:36,002] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:49:36,003] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:49:36,003] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 17:53:48,729] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 17:53:51,523] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 17:53:51,524] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 17:53:51,525] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:03:10,193] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:03:13,099] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:03:13,099] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:03:13,100] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:06:00,568] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:06:05,954] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:06:05,955] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:06:05,956] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:08:09,915] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:08:12,129] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:08:12,130] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:08:12,131] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:09:25,691] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:09:29,693] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:09:29,693] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:09:29,694] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:09:51,944] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:09:51,944] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:09:51,945] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:10:55,541] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:10:59,927] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:10:59,928] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:10:59,929] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:12:37,319] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:12:39,539] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:12:39,540] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:12:39,540] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:13:27,804] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:13:27,804] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:13:27,804] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:16:47,640] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:16:50,199] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:16:50,200] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:16:50,201] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:19:30,731] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:19:34,444] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:19:34,446] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:19:34,446] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:20:48,876] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:20:51,073] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:20:51,074] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:20:51,074] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:24:23,066] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 18:24:26,528] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:24:26,528] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:24:26,529] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:25:47,285] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:25:47,285] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:25:47,285] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:26:39,411] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:26:39,411] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:26:39,411] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:27:38,909] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:27:38,909] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:27:38,909] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:28:05,462] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:28:05,462] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:28:05,462] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:30:49,124] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:30:49,124] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:30:49,124] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:32:08,358] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:32:08,358] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:32:08,358] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:32:11,073] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:32:11,073] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:2,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:32:11,074] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:32:14,531] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:32:14,531] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:32:14,531] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:32:16,009] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:32:16,009] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:2,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 18:32:16,009] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 18:32:24,607] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 18:32:24,607] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:5,clazz:null,propertie:{}
+[2017-07-09 18:32:24,608] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 23:40:29,716] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-09 23:40:33,170] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 23:40:33,170] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 23:40:33,171] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 23:41:13,289] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 23:41:13,289] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 23:41:13,290] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 23:41:16,967] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 23:41:16,967] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 23:41:16,967] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-09 23:41:18,445] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-09 23:41:18,446] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-09 23:41:18,446] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}

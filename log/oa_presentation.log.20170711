@@ -1,0 +1,456 @@
+[2017-07-11 08:22:45,008] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 08:22:45,012] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 08:22:45,063] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 08:22:46,324] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 08:22:46,324] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:26:56,821] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 11:26:56,823] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 11:26:56,890] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 11:27:07,106] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 11:27:07,107] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 11:27:07,112] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 11:27:10,099] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:27:10,099] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:27:14,210] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:27:14,210] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:27:14,270] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=见你骄傲, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:27:14,270] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=见你骄傲, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:27:49,982] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:27:49,982] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:27:49,982] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:27:49,982] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:27:51,127] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=22, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 11:27:51,127] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=22, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 11:27:51,341] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:27:51,341] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:04,050] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 11:28:04,050] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 11:28:04,056] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:04,056] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:11,090] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 m  
+[2017-07-11 11:28:11,090] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 m  
+[2017-07-11 11:28:11,094] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:11,094] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:11,238] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 11:28:11,238] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 11:28:11,244] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:11,244] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 11:28:11,523] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:11,523] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:11,524] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:11,524] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:12,492] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:12,492] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:12,494] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:12,494] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:37,572] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:37,572] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm1  
+[2017-07-11 11:28:37,573] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:37,573] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:28:38,694] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=null, name=mm1, password=null, age=23, sex=女, phoneNum=13355667788, address=长江路, role=Role [id=2, rolename=null]]
+[2017-07-11 11:28:38,694] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=null, name=mm1, password=null, age=23, sex=女, phoneNum=13355667788, address=长江路, role=Role [id=2, rolename=null]]
+[2017-07-11 11:28:38,793] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:38,793] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:42,208] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:42,208] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:44,900] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:28:44,900] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:45:37,325] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 11:45:37,327] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 11:45:37,361] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 11:45:38,579] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:45:38,579] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:45:44,917] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:45:44,917] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:45:44,925] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=22, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:45:44,925] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=22, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:45:57,501] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:45:57,501] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:45:57,502] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:45:57,502] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:45:58,551] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=null]
+[2017-07-11 11:45:58,551] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=null]
+[2017-07-11 11:46:07,698] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:07,698] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:07,702] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:46:07,702] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:46:07,765] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:07,765] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:07,766] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:46:07,766] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:46:56,607] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:56,607] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:46:56,609] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:46:56,609] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:03,757] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:03,757] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:03,757] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:03,757] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:05,978] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:05,978] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:05,978] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:05,978] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:13,119] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:13,119] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:47:13,119] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:13,119] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:30,008] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:47:30,008] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:47:30,009] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:30,009] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:30,226] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:47:30,226] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-11 11:47:30,228] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:30,228] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:31,868] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:31,868] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:31,869] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:31,869] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:32,520] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:32,520] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:32,522] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:32,522] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:36,054] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:36,054] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmmm  mm
+[2017-07-11 11:47:36,055] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:36,055] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:39,909] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me  mm
+[2017-07-11 11:47:39,909] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me  mm
+[2017-07-11 11:47:39,913] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:39,913] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:39,957] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me  mm
+[2017-07-11 11:47:39,957] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me  mm
+[2017-07-11 11:47:39,958] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:39,958] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:40,553] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me1  mm
+[2017-07-11 11:47:40,553] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me1  mm
+[2017-07-11 11:47:40,555] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:40,555] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:41,508] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me1  mm
+[2017-07-11 11:47:41,508] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 me1  mm
+[2017-07-11 11:47:41,510] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:47:41,510] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:52:56,645] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 11:52:56,647] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 11:52:56,679] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 11:52:57,710] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:52:57,710] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:53:02,011] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:53:02,011] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:53:02,019] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:53:02,019] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:53:06,069] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:53:06,069] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:53:06,069] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:53:06,069] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:56:10,433] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 11:56:10,435] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 11:56:10,507] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 11:56:11,544] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:56:11,544] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 11:56:13,548] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:56:13,548] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 11:56:13,557] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:56:13,557] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 11:56:16,867] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:56:16,867] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 11:56:16,867] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 11:56:16,867] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:00:10,468] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 12:00:10,470] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 12:00:10,519] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 12:00:11,472] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:00:11,472] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:00:13,584] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:00:13,584] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:00:13,590] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:00:13,590] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:00:17,086] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:00:17,086] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:00:17,087] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:00:17,087] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:13:18,325] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 12:13:18,326] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 12:13:18,361] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 12:13:21,996] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:13:21,996] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:13:25,773] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:13:25,773] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:13:25,781] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:13:25,781] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=34, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:13:36,123] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:13:36,123] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:13:36,124] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:13:36,124] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:13:38,053] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=null]
+[2017-07-11 12:13:38,053] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=null]
+[2017-07-11 12:13:38,165] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:13:38,165] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:13:41,707] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:13:41,707] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:13:41,710] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:13:41,710] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:13:49,731] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 12:13:49,731] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 12:13:49,736] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:13:49,736] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:14:05,157] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 12:14:05,157] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 12:14:05,159] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:14:05,159] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:14:06,264] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=null, name=mm3, password=null, age=23, sex=男, phoneNum=15544332233, address=天书了, role=Role [id=1, rolename=null]]
+[2017-07-11 12:14:06,264] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的待更新的用户信息为：DetailEmployee [id=null, name=mm3, password=null, age=23, sex=男, phoneNum=15544332233, address=天书了, role=Role [id=1, rolename=null]]
+[2017-07-11 12:14:06,392] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:14:06,392] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:14:16,895] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:14:16,895] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:14:19,102] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-11 12:14:19,102] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-11 12:30:42,975] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 12:30:42,976] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 12:30:43,011] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 12:30:46,357] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:30:46,357] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:30:50,020] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:30:50,020] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:30:50,026] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:30:50,026] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:30:54,008] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:30:54,008] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:30:54,009] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:30:54,009] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:31:02,369] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:31:02,369] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:31:02,369] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:31:02,369] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:31:04,130] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=25, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 12:31:04,130] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=25, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 12:31:04,168] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:31:04,168] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:31:14,697] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:31:14,697] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 12:31:14,701] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:31:14,701] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 12:31:43,155] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:31:43,155] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 12:31:43,156] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:31:43,156] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 12:31:44,639] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=27, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 12:31:44,639] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=27, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 12:31:44,691] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 12:31:44,691] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:39:11,846] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 13:39:11,847] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 13:39:11,884] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 13:39:13,019] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:39:13,019] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:39:21,292] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:39:21,292] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:39:21,301] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:39:21,301] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:39:25,974] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:39:25,974] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:39:25,975] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:39:25,975] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:39:31,414] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:39:31,414] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:40:07,413] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:40:07,413] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:40:59,758] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:40:59,758] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:40:59,762] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:40:59,762] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:41:04,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:41:04,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:41:04,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:41:04,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:41:06,790] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:41:06,790] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:42:30,109] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:42:30,109] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:44:32,446] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 13:44:32,447] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 13:44:32,492] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 13:44:34,062] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:44:34,062] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:44:44,311] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:44:44,311] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:44:44,321] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:44:44,321] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:45:07,526] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:45:07,526] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:45:07,526] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:45:07,526] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:45:08,711] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:45:08,711] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:48:30,223] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:48:30,223] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:48:41,384] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:48:41,384] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:48:41,398] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:48:41,398] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:48:41,398] INFO  [com.jboa.action.employee.EmployeeInitAction]: 发生异常:java.lang.NullPointerException
+[2017-07-11 13:48:41,398] INFO  [com.jboa.action.employee.EmployeeInitAction]: 发生异常:java.lang.NullPointerException
+[2017-07-11 13:48:57,211] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 13:48:57,212] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 13:48:57,251] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 13:48:58,890] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:48:58,890] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:49:01,777] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:49:01,777] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:49:01,781] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:49:01,781] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:49:11,487] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:49:11,487] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:49:11,487] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:49:11,487] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:49:12,797] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:49:12,797] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:49:42,434] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:49:42,434] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:50:58,535] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 13:50:58,536] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 13:50:58,583] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 13:50:59,590] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:50:59,590] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:51:01,881] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:51:01,881] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:51:01,889] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:51:01,889] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路天水山庄, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:51:06,698] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:51:06,698] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mm
+[2017-07-11 13:51:06,699] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:06,699] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:07,755] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:51:07,755] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-11 13:51:14,214] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:51:14,214] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:51:21,267] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:51:21,267] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:51:21,270] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:51:21,270] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:51:23,948] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:23,948] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:23,950] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:23,950] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:24,568] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:24,568] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:24,569] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:24,569] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:42,683] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:42,683] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:51:42,685] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:42,685] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:51:43,718] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=null, name=mm2, password=null, age=23, sex=男, phoneNum=15544337788, address=霍山路, role=Role [id=1, rolename=null]]
+[2017-07-11 13:51:43,718] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=null, name=mm2, password=null, age=23, sex=男, phoneNum=15544337788, address=霍山路, role=Role [id=1, rolename=null]]
+[2017-07-11 13:51:43,721] INFO  [com.jboa.action.employee.EmployeeAjaxAction]: 更新/新增用户时发生异常：com.jboa.exception.HibernateDaoSupportException: PK with value null
+[2017-07-11 13:51:43,721] INFO  [com.jboa.action.employee.EmployeeAjaxAction]: 更新/新增用户时发生异常：com.jboa.exception.HibernateDaoSupportException: PK with value null
+[2017-07-11 13:55:50,590] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 13:55:50,591] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 13:55:50,633] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 13:55:51,562] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:55:51,562] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:55:54,062] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:55:54,062] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-11 13:55:54,071] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:55:54,071] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-11 13:56:00,416] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 13:56:00,416] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm3  
+[2017-07-11 13:56:00,420] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:00,420] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:08,178] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:56:08,178] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:56:08,180] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:08,180] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:08,284] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:56:08,284] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm2  
+[2017-07-11 13:56:08,285] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:08,285] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:09,145] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:56:09,145] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  
+[2017-07-11 13:56:09,147] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:09,147] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:09,303] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 m  
+[2017-07-11 13:56:09,303] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 m  
+[2017-07-11 13:56:09,305] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:09,305] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:09,717] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e  
+[2017-07-11 13:56:09,717] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e  
+[2017-07-11 13:56:09,719] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:09,719] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名不可用
+[2017-07-11 13:56:10,028] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:10,028] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:10,030] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:10,030] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:11,373] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:11,373] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:11,375] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:11,375] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:26,602] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:26,602] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e1  
+[2017-07-11 13:56:26,603] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:26,603] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-11 13:56:27,683] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=null, name=e1, password=null, age=24, sex=男, phoneNum=15522334455, address=霍山路, role=Role [id=1, rolename=null]]
+[2017-07-11 13:56:27,683] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=null, name=e1, password=null, age=24, sex=男, phoneNum=15522334455, address=霍山路, role=Role [id=1, rolename=null]]
+[2017-07-11 13:56:27,824] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 13:56:27,824] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-11 16:14:53,207] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:14:53,209] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-11 16:14:53,259] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-11 16:15:15,043] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:15:15,044] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 16:15:15,047] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 16:17:27,101] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:17:27,101] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 16:17:27,105] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 16:22:41,524] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-11 16:22:41,650] INFO  [com.jboa.action.BaseAction]: 新增/更新发生异常org.hibernate.exception.SQLGrammarException: could not insert: [com.jboa.entity.Leave]
+[2017-07-11 16:26:31,937] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:26:31,939] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 16:26:31,981] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 16:27:05,952] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-11 16:27:06,061] INFO  [com.jboa.action.BaseAction]: 新增/更新发生异常org.hibernate.exception.SQLGrammarException: could not insert: [com.jboa.entity.Leave]
+[2017-07-11 16:42:45,543] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:42:45,544] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 16:42:45,587] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 16:43:11,513] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-11 16:43:11,663] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-11 16:46:07,418] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 16:46:07,420] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 16:46:07,459] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 16:46:44,177] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-11 16:46:44,386] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-11 16:47:18,238] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-11 18:13:25,633] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:13:25,634] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:13:25,681] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:13:29,655] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-11 18:16:46,674] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:16:46,676] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:16:46,723] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:16:49,214] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.dao.InvalidDataAccessResourceUsageException: could not execute query; SQL [select count(*) as col_0_0_ from leave_l leave0_ where 1=1 and creator_empId=?]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute query
+[2017-07-11 18:19:19,444] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:19:19,445] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:19:19,488] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:19:20,916] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-11 18:21:19,906] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:21:19,907] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:21:19,943] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:25:10,856] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:25:10,857] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:25:10,927] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:29:26,875] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:29:26,876] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:29:26,915] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:31:07,416] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:31:07,417] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:31:07,455] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:33:23,191] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:33:23,192] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:33:23,239] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:34:50,344] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:34:50,346] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:34:50,391] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14
+[2017-07-11 18:39:02,290] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-11 18:39:02,291] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-11 18:39:02,335] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 14

@@ -1,0 +1,769 @@
+[2017-07-17 08:36:47,940] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=e}
+[2017-07-17 08:36:53,126] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 08:36:53,135] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:37:13,639] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 08:37:17,223] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 08:37:17,228] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:38:28,789] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 08:38:30,380] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 08:38:30,381] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:38:49,777] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 08:38:49,782] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:38:49,782] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 2, properties:{}
+[2017-07-17 08:38:49,790] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:38:49,790] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=null, createTime=Mon Jul 17 08:38:49 CST 2017, receiveState=0, sendState=4, title=1234]  MailContent [contentId=null, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:38:49,929] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:38:53,696] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 08:38:53,697] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 08:38:55,387] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 08:38:55,387] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 08:38:57,063] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:38:57,063] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:39:06,232] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 4, properties:{}
+[2017-07-17 08:39:06,239] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:39:06,240] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=4, createTime=2017-07-15 00:49:59.0, receiveState=1, sendState=5, title=test1]  MailContent [contentId=5, content=test22, attachFile=null]
+[2017-07-17 08:39:06,240] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:39:06,408] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 08:39:06,420] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:39:06,432] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=0, sendState=5, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:39:06,434] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:39:07,621] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:39:07,622] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:39:09,962] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:09,962] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:11,493] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 4, properties:{}
+[2017-07-17 08:39:11,495] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:39:11,497] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=4, createTime=2017-07-15 00:49:59.0, receiveState=1, sendState=4, title=test1]  MailContent [contentId=5, content=test22, attachFile=null]
+[2017-07-17 08:39:11,497] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:39:12,643] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:12,643] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:13,811] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 08:39:13,812] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:39:13,813] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=0, sendState=4, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:39:13,813] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:39:14,831] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:14,831] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 08:39:16,906] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:39:16,907] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 08:40:34,942] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:40:34,942] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=null, createTime=Mon Jul 17 08:40:34 CST 2017, startDate=Thu Jul 20 00:00:00 CST 2017, endDate=Fri Jul 28 00:00:00 CST 2017, event=aaasssdd, leaveType=0, state=0]
+[2017-07-17 08:40:34,944] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:40:35,009] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:35,009] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:35,009] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:35,009] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:35,009] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:36,770] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:36,770] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:36,770] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:36,770] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:36,771] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:42,366] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:42,366] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:42,366] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:42,366] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:2,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:42,366] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:43,174] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:43,174] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:43,174] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:43,174] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:3,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:43,175] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:45,018] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 18, properties:{}
+[2017-07-17 08:40:45,023] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:40:53,019] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 18, properties:{}
+[2017-07-17 08:40:53,021] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:40:53,021] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:40:53,021] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=18, createTime=2017-07-17 08:40:34.0, startDate=Tue Jul 18 00:00:00 CST 2017, endDate=Fri Jul 28 00:00:00 CST 2017, event=aaasssdd, leaveType=0, state=0]
+[2017-07-17 08:40:53,022] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:40:53,128] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:53,128] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:53,128] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:53,129] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:53,129] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:55,618] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:55,618] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:55,618] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:55,618] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:2,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:55,618] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:56,622] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:40:56,622] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 08:40:56,622] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 08:40:56,622] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:3,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 08:40:56,623] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}
+[2017-07-17 08:40:58,227] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 18, properties:{}
+[2017-07-17 08:40:58,228] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:41:13,003] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 08:41:16,226] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 2, properties:{}
+[2017-07-17 08:41:16,227] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:41:23,532] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:41:23,532] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:41:26,344] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:41:26,344] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:41:29,823] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:41:29,823] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:41:36,283] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 08:41:36,284] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:41:36,285] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=1, sendState=4, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:41:36,285] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:42:31,154] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:31,154] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:32,513] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:42:32,513] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 08:42:34,403] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:34,403] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:38,313] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 8, properties:{}
+[2017-07-17 08:42:38,321] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:42:38,321] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=8, createTime=2017-07-15 11:23:22.0, receiveState=2, sendState=4, title=ooookkkk]  MailContent [contentId=9, content=ggggggggoooooootttttttttttiiiiiiitttttttttttttt, attachFile=85a885b0de1a4b45a6f975150ff241d9.log]
+[2017-07-17 08:42:38,321] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 08:42:39,628] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:39,629] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 08:42:45,546] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:42:45,547] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:42:45,547] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:45,547] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:45,547] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:48,976] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 14, properties:{}
+[2017-07-17 08:42:48,981] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:42:52,392] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 14, properties:{}
+[2017-07-17 08:42:52,393] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:42:52,393] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:42:52,393] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=14, createTime=2017-07-15 11:04:29.0, startDate=2017-07-15, endDate=2017-07-19, event=mmm, leaveType=0, state=1]
+[2017-07-17 08:42:52,394] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=2, name=m, password=1234, age=13, phoneNum=15544334455, address=留在路, sex=男], comment=im change, approvalTime=Mon Jul 17 08:42:52 CST 2017, result=0]
+[2017-07-17 08:42:52,483] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 23
+[2017-07-17 08:42:52,619] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:42:52,645] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:42:52,645] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:42:52,645] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:52,645] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:52,645] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:42:58,202] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 1, properties:{}
+[2017-07-17 08:42:58,208] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:43:02,707] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 14, properties:{}
+[2017-07-17 08:43:02,708] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:43:04,843] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 14, properties:{}
+[2017-07-17 08:43:04,845] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:43:04,845] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:43:04,845] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=14, createTime=2017-07-15 11:04:29.0, startDate=2017-07-15, endDate=2017-07-19, event=mmm, leaveType=0, state=1]
+[2017-07-17 08:43:04,845] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=2, name=m, password=1234, age=13, phoneNum=15544334455, address=留在路, sex=男], comment=im change, approvalTime=Mon Jul 17 08:43:04 CST 2017, result=1]
+[2017-07-17 08:43:04,947] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 24
+[2017-07-17 08:43:04,976] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:43:05,044] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:05,044] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:43:05,044] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:05,044] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:05,044] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:09,094] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:09,094] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=1, l.leaveResult=null, l.creator.department.deptId=1}
+[2017-07-17 08:43:09,094] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:09,094] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:09,094] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:11,126] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 18, properties:{}
+[2017-07-17 08:43:11,127] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:43:15,105] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 18, properties:{}
+[2017-07-17 08:43:15,107] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:43:15,107] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:43:15,107] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=18, createTime=2017-07-17 08:40:34.0, startDate=2017-07-18, endDate=2017-07-28, event=aaasssdd, leaveType=0, state=0]
+[2017-07-17 08:43:15,107] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=2, name=m, password=1234, age=13, phoneNum=15544334455, address=留在路, sex=男], comment=dsddddfff, approvalTime=Mon Jul 17 08:43:15 CST 2017, result=1]
+[2017-07-17 08:43:15,162] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 25
+[2017-07-17 08:43:15,199] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:43:15,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:15,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=1, l.leaveResult=null, l.creator.department.deptId=1}
+[2017-07-17 08:43:15,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:15,275] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:15,275] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null  and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_state=0, l_creator_department_deptId=1}
+[2017-07-17 08:43:17,544] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:17,544] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:43:17,544] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:17,544] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:17,544] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:19,595] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:19,595] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:43:19,595] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:19,595] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:19,595] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_leaveResult_result=1, l_creator_role_id=1, l_state=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:29,566] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:29,566] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:43:29,566] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:29,567] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:29,567] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:32,776] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId
+[2017-07-17 08:43:32,776] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=1, l.creator.department.deptId=1}
+[2017-07-17 08:43:32,776] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:32,776] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId,currentPage:2,pageSize:3,clazz:null,propertie:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:32,776] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id and l.creator.department.deptId=:l_creator_department_deptId, properties:{l_creator_role_id=1, l_creator_department_deptId=1}
+[2017-07-17 08:43:43,535] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=mm}
+[2017-07-17 08:43:46,734] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=12345, username=mm}
+[2017-07-17 08:43:52,006] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 08:44:02,372] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:44:02,372] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=null, createTime=Mon Jul 17 08:44:02 CST 2017, startDate=Thu Jul 27 00:00:00 CST 2017, endDate=Fri Jul 28 00:00:00 CST 2017, event=ffff, leaveType=0, state=0]
+[2017-07-17 08:44:02,373] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:44:02,529] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:44:02,529] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=2}
+[2017-07-17 08:44:02,529] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=2}
+[2017-07-17 08:44:02,530] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=2}
+[2017-07-17 08:44:02,530] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=2}
+[2017-07-17 08:44:17,754] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=12345, username=mm}
+[2017-07-17 08:44:19,597] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:44:19,597] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=2}
+[2017-07-17 08:44:19,597] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:44:19,597] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:44:19,598] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id, properties:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:44:21,777] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:44:21,778] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:44:21,778] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:44:21,778] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:44:21,778] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:44:24,291] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:44:24,291] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:44:24,292] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:24,292] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:24,292] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:26,666] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:44:26,666] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:44:26,666] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:44:26,666] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:44:26,666] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:44:41,958] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:44:41,958] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:44:41,958] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:44:41,958] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:44:41,958] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:44:44,699] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:44:44,700] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:44:44,700] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:44,700] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:44,700] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:44:55,630] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 08:45:04,509] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:45:04,509] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=null, createTime=Mon Jul 17 08:45:04 CST 2017, startDate=Tue Jul 18 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, event=eeee, leaveType=0, state=0]
+[2017-07-17 08:45:04,511] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:45:04,663] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 08:45:04,663] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=2}
+[2017-07-17 08:45:04,663] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=2}
+[2017-07-17 08:45:04,663] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=2}
+[2017-07-17 08:45:04,663] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=2}
+[2017-07-17 08:45:10,038] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=mm}
+[2017-07-17 08:45:12,835] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=12345, username=mm}
+[2017-07-17 08:45:15,571] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:15,571] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:15,571] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:15,571] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:15,571] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:18,364] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 20, properties:{}
+[2017-07-17 08:45:18,371] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:21,128] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 20, properties:{}
+[2017-07-17 08:45:21,129] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:21,129] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:45:21,129] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=20, createTime=2017-07-17 08:45:04.0, startDate=2017-07-18, endDate=2017-07-27, event=eeee, leaveType=0, state=0]
+[2017-07-17 08:45:21,130] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=3, name=mm, password=12345, age=35, phoneNum=13344555578, address=望江路, sex=女], comment=213123, approvalTime=Mon Jul 17 08:45:21 CST 2017, result=1]
+[2017-07-17 08:45:21,216] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 26
+[2017-07-17 08:45:21,252] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:45:21,282] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:21,282] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:21,282] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:21,282] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:21,282] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:23,829] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 19, properties:{}
+[2017-07-17 08:45:23,834] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:27,076] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 19, properties:{}
+[2017-07-17 08:45:27,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:27,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:45:27,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=19, createTime=2017-07-17 08:44:02.0, startDate=2017-07-27, endDate=2017-07-28, event=ffff, leaveType=0, state=0]
+[2017-07-17 08:45:27,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=3, name=mm, password=12345, age=35, phoneNum=13344555578, address=望江路, sex=女], comment=234324324242, approvalTime=Mon Jul 17 08:45:27 CST 2017, result=1]
+[2017-07-17 08:45:27,178] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 27
+[2017-07-17 08:45:27,208] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:45:27,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:27,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:27,275] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:27,276] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:27,276] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:29,273] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:29,273] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:29,273] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:29,273] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:29,273] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:31,676] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:31,676] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=2}
+[2017-07-17 08:45:31,676] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:31,676] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:31,676] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id, properties:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:34,015] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:34,015] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:34,015] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:34,015] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:34,015] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:45:35,512] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:35,512] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:35,512] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:35,512] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:35,512] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:36,077] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:36,077] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:36,077] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:36,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:36,077] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:45:36,546] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:36,547] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=2}
+[2017-07-17 08:45:36,547] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:36,547] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:36,547] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id, properties:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:42,736] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 15, properties:{}
+[2017-07-17 08:45:42,742] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:48,403] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:FROM com.jboa.entity.Leave n where n.id = 15, properties:{}
+[2017-07-17 08:45:48,405] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: Execute findById method is successful!
+[2017-07-17 08:45:48,405] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-17 08:45:48,405] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新的休假信息为：Leave [vacationId=15, createTime=2017-07-15 11:14:10.0, startDate=2017-07-16, endDate=2017-07-19, event=vacation, leaveType=2, state=1]
+[2017-07-17 08:45:48,405] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 保存的结果信息为：LeaveResult [lresutlId=null, employee=Employee [empId=3, name=mm, password=12345, age=35, phoneNum=13344555578, address=望江路, sex=女], comment=3333333, approvalTime=Mon Jul 17 08:45:48 CST 2017, result=0]
+[2017-07-17 08:45:48,511] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]:  结果ID为： 28
+[2017-07-17 08:45:48,547] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-17 08:45:48,578] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:48,578] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:48,578] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:48,578] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:48,578] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:45:50,347] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:50,347] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=1, l.state=1, l.creator.role.id=2}
+[2017-07-17 08:45:50,347] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:50,347] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:50,347] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result=:l_leaveResult_result and l.state=:l_state and l.creator.role.id=:l_creator_role_id, properties:{l_leaveResult_result=1, l_creator_role_id=2, l_state=1}
+[2017-07-17 08:45:51,833] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null 
+[2017-07-17 08:45:51,833] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.state=0, l.creator.role.id=2, l.leaveResult=null}
+[2017-07-17 08:45:51,833] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:51,833] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null ,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:51,834] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=null , properties:{l_creator_role_id=2, l_state=0}
+[2017-07-17 08:45:54,477] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:54,478] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:54,478] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:54,478] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:54,478] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:45:56,311] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:56,311] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:56,312] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:56,312] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:2,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:56,312] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 08:45:57,807] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id
+[2017-07-17 08:45:57,807] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.leaveResult.result=3, l.creator.role.id=2}
+[2017-07-17 08:45:57,807] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_role_id=2}
+[2017-07-17 08:45:57,807] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_role_id=2}
+[2017-07-17 08:45:57,807] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.leaveResult.result!=null  and l.creator.role.id=:l_creator_role_id, properties:{l_creator_role_id=2}
+[2017-07-17 09:16:00,635] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=e}
+[2017-07-17 09:16:05,986] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:16:07,926] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 09:16:07,935] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:14,892] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 09:16:14,902] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:14,903] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 2, properties:{}
+[2017-07-17 09:16:14,909] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:14,909] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=null, createTime=Mon Jul 17 09:16:14 CST 2017, receiveState=0, sendState=4, title=asdfasdfasdf]  MailContent [contentId=null, content=asdfasdfasdfasdfsd, attachFile=null]
+[2017-07-17 09:16:15,034] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:16:16,238] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:16:18,058] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 09:16:18,060] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:23,238] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 09:16:23,242] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:23,243] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 2, properties:{}
+[2017-07-17 09:16:23,247] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:23,248] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=null, createTime=Mon Jul 17 09:16:23 CST 2017, receiveState=0, sendState=4, title=dfsdfsdf]  MailContent [contentId=null, content=sdfsadfasdfwerqwrqwer, attachFile=null]
+[2017-07-17 09:16:23,389] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:16:25,102] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:16:26,681] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 09:16:26,682] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:40,522] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 09:16:40,528] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:40,529] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 2, properties:{}
+[2017-07-17 09:16:40,533] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:16:40,533] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=null, createTime=Mon Jul 17 09:16:40 CST 2017, receiveState=0, sendState=4, title=sdfds]  MailContent [contentId=null, content=fdsfsdfsdfds, attachFile=null]
+[2017-07-17 09:16:40,606] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:16:53,410] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:16:55,596] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:16:55,597] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:17:43,107] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:17:43,107] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:19:56,611] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:22:45,391] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:22:45,392] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:24:28,319] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:25:56,139] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:27:23,951] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:27:25,109] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiverState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:27:25,123] ERROR [com.jboa.dao.impl.MailDaoImpl]: Error getUniqueBeanResult:{}
+org.springframework.orm.hibernate3.HibernateQueryException: could not resolve property: receiverState of: com.jboa.entity.Mail [select count(*) from com.jboa.entity.Mail m where m.receiverState=0 and m.receiver.empId=2]; nested exception is org.hibernate.QueryException: could not resolve property: receiverState of: com.jboa.entity.Mail [select count(*) from com.jboa.entity.Mail m where m.receiverState=0 and m.receiver.empId=2]
+	at org.springframework.orm.hibernate3.SessionFactoryUtils.convertHibernateAccessException(SessionFactoryUtils.java:656)
+	at org.springframework.orm.hibernate3.HibernateAccessor.convertHibernateAccessException(HibernateAccessor.java:412)
+	at org.springframework.orm.hibernate3.HibernateTemplate.doExecute(HibernateTemplate.java:412)
+	at org.springframework.orm.hibernate3.HibernateTemplate.execute(HibernateTemplate.java:339)
+	at com.jboa.dao.impl.BaseDaoImpl.getUniqueBeanResult(BaseDaoImpl.java:619)
+	at com.jboa.dao.impl.BaseDaoImpl.getRecordCount(BaseDaoImpl.java:343)
+	at com.jboa.dao.impl.MailDaoImpl.getUnreadCount(MailDaoImpl.java:61)
+	at com.jboa.service.impl.MailServiceImpl.getUnreadCount(MailServiceImpl.java:114)
+	at com.jboa.service.impl.MailServiceImpl$$FastClassBySpringCGLIB$$759a0b20.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:700)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:96)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:260)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:94)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:633)
+	at com.jboa.service.impl.MailServiceImpl$$EnhancerBySpringCGLIB$$3a53da8c.getUnreadCount(<generated>)
+	at com.jboa.action.mail.MailAjaxAction.getUnreaded(MailAjaxAction.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.hibernate.QueryException: could not resolve property: receiverState of: com.jboa.entity.Mail [select count(*) from com.jboa.entity.Mail m where m.receiverState=0 and m.receiver.empId=2]
+	at org.hibernate.persister.entity.AbstractPropertyMapping.propertyException(AbstractPropertyMapping.java:67)
+	at org.hibernate.persister.entity.AbstractPropertyMapping.toType(AbstractPropertyMapping.java:61)
+	at org.hibernate.persister.entity.AbstractEntityPersister.toType(AbstractEntityPersister.java:1375)
+	at org.hibernate.hql.ast.tree.FromElementType.getPropertyType(FromElementType.java:304)
+	at org.hibernate.hql.ast.tree.FromElement.getPropertyType(FromElement.java:410)
+	at org.hibernate.hql.ast.tree.DotNode.getDataType(DotNode.java:617)
+	at org.hibernate.hql.ast.tree.DotNode.prepareLhs(DotNode.java:263)
+	at org.hibernate.hql.ast.tree.DotNode.resolve(DotNode.java:210)
+	at org.hibernate.hql.ast.tree.FromReferenceNode.resolve(FromReferenceNode.java:117)
+	at org.hibernate.hql.ast.tree.FromReferenceNode.resolve(FromReferenceNode.java:113)
+	at org.hibernate.hql.ast.HqlSqlWalker.resolve(HqlSqlWalker.java:854)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.expr(HqlSqlBaseWalker.java:1293)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.exprOrSubquery(HqlSqlBaseWalker.java:4243)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.comparisonExpr(HqlSqlBaseWalker.java:3722)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.logicalExpr(HqlSqlBaseWalker.java:1864)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.logicalExpr(HqlSqlBaseWalker.java:1789)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.whereClause(HqlSqlBaseWalker.java:818)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.query(HqlSqlBaseWalker.java:604)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.selectStatement(HqlSqlBaseWalker.java:288)
+	at org.hibernate.hql.antlr.HqlSqlBaseWalker.statement(HqlSqlBaseWalker.java:231)
+	at org.hibernate.hql.ast.QueryTranslatorImpl.analyze(QueryTranslatorImpl.java:254)
+	at org.hibernate.hql.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:185)
+	at org.hibernate.hql.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:136)
+	at org.hibernate.engine.query.HQLQueryPlan.<init>(HQLQueryPlan.java:101)
+	at org.hibernate.engine.query.HQLQueryPlan.<init>(HQLQueryPlan.java:80)
+	at org.hibernate.engine.query.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:94)
+	at org.hibernate.impl.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:156)
+	at org.hibernate.impl.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:135)
+	at org.hibernate.impl.SessionImpl.createQuery(SessionImpl.java:1651)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.orm.hibernate3.HibernateTemplate$CloseSuppressingInvocationHandler.invoke(HibernateTemplate.java:1283)
+	at com.sun.proxy.$Proxy20.createQuery(Unknown Source)
+	at com.jboa.dao.impl.BaseDaoImpl$4.doInHibernate(BaseDaoImpl.java:621)
+	at org.springframework.orm.hibernate3.HibernateTemplate.doExecute(HibernateTemplate.java:407)
+	... 94 more
+[2017-07-17 09:28:44,044] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:28:45,153] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:29:18,793] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:29:18,794] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:29:21,331] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 10, properties:{}
+[2017-07-17 09:29:21,359] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:29:21,361] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=10, createTime=2017-07-17 09:16:14.0, receiveState=1, sendState=4, title=asdfasdfasdf]  MailContent [contentId=11, content=asdfasdfasdfasdfsd, attachFile=null]
+[2017-07-17 09:29:21,365] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:29:21,502] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:29:24,254] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:29:24,254] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:29:24,497] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:29:25,910] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:29:25,910] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=0}
+[2017-07-17 09:29:26,192] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:29:34,921] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:29:34,921] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:29:35,167] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:39:54,637] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=m}
+[2017-07-17 09:39:55,645] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:39:56,962] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:39:56,963] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:39:59,434] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:40:02,735] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 09:40:02,741] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:40:02,743] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=2, sendState=4, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 09:40:02,745] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:40:02,883] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 10, properties:{}
+[2017-07-17 09:40:02,896] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:40:02,902] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=10, createTime=2017-07-17 09:16:14.0, receiveState=2, sendState=4, title=asdfasdfasdf]  MailContent [contentId=11, content=asdfasdfasdfasdfsd, attachFile=null]
+[2017-07-17 09:40:02,903] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:40:04,063] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:40:04,063] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=2, m_receiveState=1}
+[2017-07-17 09:40:04,289] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:40:05,922] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:40:05,922] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:40:06,167] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:41:01,490] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=2, m_sendState=4}
+[2017-07-17 09:41:01,491] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=2, m_sendState=4}
+[2017-07-17 09:41:02,486] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:41:03,741] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:41:03,741] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:41:04,069] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:42:40,017] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=2, m_sendState=4}
+[2017-07-17 09:42:40,017] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=2, m_sendState=4}
+[2017-07-17 09:42:40,791] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:42:41,368] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:42:41,369] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:42:41,584] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:42:45,703] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 8, properties:{}
+[2017-07-17 09:42:45,708] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:42:45,709] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=8, createTime=2017-07-15 11:23:22.0, receiveState=1, sendState=4, title=ooookkkk]  MailContent [contentId=9, content=ggggggggoooooootttttttttttiiiiiiitttttttttttttt, attachFile=85a885b0de1a4b45a6f975150ff241d9.log]
+[2017-07-17 09:42:45,709] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:42:45,748] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 09:42:45,750] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:42:45,750] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=1, sendState=4, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 09:42:45,751] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:42:45,779] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 10, properties:{}
+[2017-07-17 09:42:45,780] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:42:45,781] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=10, createTime=2017-07-17 09:16:14.0, receiveState=1, sendState=4, title=asdfasdfasdf]  MailContent [contentId=11, content=asdfasdfasdfasdfsd, attachFile=null]
+[2017-07-17 09:42:45,781] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:42:46,643] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:42:46,644] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=2, m_receiveState=2, m_sender_empId=2, m_sendState=5}
+[2017-07-17 09:42:46,862] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=2, properties:null
+[2017-07-17 09:44:10,628] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=123123, username=中文}
+[2017-07-17 09:44:21,063] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd and state=1 , properties:{pwd=1234, username=e}
+[2017-07-17 09:44:21,282] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:44:24,316] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:44:27,730] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 1, properties:{}
+[2017-07-17 09:44:27,741] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:45:10,635] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:45:18,085] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 1, properties:{}
+[2017-07-17 09:45:18,092] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:45:32,261] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:FROM com.jboa.entity.Department n where n.id = 2, properties:{}
+[2017-07-17 09:45:32,268] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:48:15,350] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:15,351] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:15,767] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:48:18,893] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:48:18,893] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:48:19,122] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:48:21,209] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:21,209] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:21,602] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:48:48,505] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 1, properties:{}
+[2017-07-17 09:48:48,512] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:48:48,513] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=1, createTime=2017-07-14 21:38:37.0, receiveState=1, sendState=5, title=titlwe]  MailContent [contentId=2, content=hello, attachFile=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-17 09:48:48,516] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:48:48,629] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 4, properties:{}
+[2017-07-17 09:48:48,640] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:48:48,642] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=4, createTime=2017-07-15 00:49:59.0, receiveState=1, sendState=5, title=test1]  MailContent [contentId=5, content=test22, attachFile=null]
+[2017-07-17 09:48:48,642] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:48:48,686] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 09:48:48,696] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:48:48,699] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=1, sendState=5, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 09:48:48,699] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:48:50,120] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:50,120] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:48:50,462] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:48:55,093] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:48:55,093] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:48:55,364] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:48:57,111] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:48:57,111] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:48:57,378] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:04,119] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:49:04,119] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:49:04,380] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:17,974] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:49:17,974] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:49:18,268] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:19,646] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:49:19,646] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:49:19,973] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:24,684] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:49:24,684] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:49:25,008] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:40,228] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 1, properties:{}
+[2017-07-17 09:49:40,229] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:49:40,230] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=1, createTime=2017-07-14 21:38:37.0, receiveState=1, sendState=4, title=titlwe]  MailContent [contentId=2, content=hello, attachFile=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-17 09:49:40,231] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:49:40,324] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 4, properties:{}
+[2017-07-17 09:49:40,327] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:49:40,330] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=4, createTime=2017-07-15 00:49:59.0, receiveState=1, sendState=4, title=test1]  MailContent [contentId=5, content=test22, attachFile=null]
+[2017-07-17 09:49:40,331] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:49:40,366] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 9, properties:{}
+[2017-07-17 09:49:40,371] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:49:40,373] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=9, createTime=2017-07-17 08:38:49.0, receiveState=1, sendState=4, title=1234]  MailContent [contentId=10, content=1234567890, attachFile=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 09:49:40,373] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:49:41,719] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:49:41,719] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:49:41,993] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:45,861] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:49:45,861] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:49:46,090] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:48,273] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:49:48,273] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:49:48,569] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:49:55,964] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:49:55,964] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:49:56,288] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:05,601] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:05,601] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:05,769] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:31,520] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 2, properties:{}
+[2017-07-17 09:50:31,525] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:50:31,527] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=2, createTime=2017-07-14 23:14:36.0, receiveState=2, sendState=4, title=tttt]  MailContent [contentId=3, content=ttddddddddddddddddddddddddddssssssssssssss, attachFile=ae72f8a4caa0490bb1bb9cda2acbb434.txt]
+[2017-07-17 09:50:31,527] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:50:32,838] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:32,838] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:33,089] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:35,221] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:50:35,221] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:50:35,416] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:40,711] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:40,711] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:40,995] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:43,423] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:43,424] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:50:43,643] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:44,783] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:50:44,783] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:50:45,031] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:53,374] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 5, properties:{}
+[2017-07-17 09:50:53,381] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:50:53,382] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=5, createTime=2017-07-15 00:51:01.0, receiveState=2, sendState=4, title=hhdd]  MailContent [contentId=6, content=teeeeedddxxxxxxx, attachFile=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-17 09:50:53,382] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:50:54,778] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:50:54,779] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:50:55,031] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:56,362] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:50:56,363] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:50:56,574] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:58,596] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:50:58,596] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:50:58,892] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:50:59,869] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:50:59,869] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:51:00,170] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:51:13,992] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 2, properties:{}
+[2017-07-17 09:51:13,994] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:51:13,995] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=2, createTime=2017-07-14 23:14:36.0, receiveState=1, sendState=4, title=tttt]  MailContent [contentId=3, content=ttddddddddddddddddddddddddddssssssssssssss, attachFile=ae72f8a4caa0490bb1bb9cda2acbb434.txt]
+[2017-07-17 09:51:13,995] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:51:14,089] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 5, properties:{}
+[2017-07-17 09:51:14,091] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:51:14,091] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=5, createTime=2017-07-15 00:51:01.0, receiveState=1, sendState=4, title=hhdd]  MailContent [contentId=6, content=teeeeedddxxxxxxx, attachFile=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-17 09:51:14,092] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:51:15,558] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:51:15,558] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:51:15,906] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:51:17,587] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:51:17,588] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:51:17,912] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:51:21,509] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:51:21,509] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:51:21,827] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:51:26,345] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:51:26,345] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:51:26,524] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:51:33,601] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:51:33,601] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:51:33,864] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:53:51,399] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:53:51,399] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:53:51,667] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:53:53,403] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:53:53,404] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:53:53,620] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:53:54,651] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 2, properties:{}
+[2017-07-17 09:53:54,652] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:53:54,653] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=2, createTime=2017-07-14 23:14:36.0, receiveState=1, sendState=4, title=tttt]  MailContent [contentId=3, content=ttddddddddddddddddddddddddddssssssssssssss, attachFile=ae72f8a4caa0490bb1bb9cda2acbb434.txt]
+[2017-07-17 09:53:54,653] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:53:58,762] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:53:58,763] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:53:59,119] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:00,384] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:FROM com.jboa.entity.Mail n where n.id = 5, properties:{}
+[2017-07-17 09:54:00,385] DEBUG [com.jboa.dao.impl.MailDaoImpl]: Execute findById method is successful!
+[2017-07-17 09:54:00,386] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 开始保存：Mail [mailId=5, createTime=2017-07-15 00:51:01.0, receiveState=1, sendState=4, title=hhdd]  MailContent [contentId=6, content=teeeeedddxxxxxxx, attachFile=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-17 09:54:00,386] DEBUG [com.jboa.dao.impl.MailDaoImpl]: 保存成功
+[2017-07-17 09:54:04,038] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:54:04,039] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:54:04,320] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:15,919] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:54:15,919] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=1}
+[2017-07-17 09:54:16,216] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:18,609] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:54:18,609] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.receiver.empId =:m_receiver_empId and  m.receiveState =:m_receiveState, properties:{m_receiver_empId=1, m_receiveState=0}
+[2017-07-17 09:54:18,773] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:35,719] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-17 09:54:38,842] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:54:38,842] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:54:39,150] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:40,796] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:54:40,797] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and  m.sender.empId =:m_sender_empId and  m.sendState =:m_sendState, properties:{m_sender_empId=1, m_sendState=4}
+[2017-07-17 09:54:40,994] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:54:41,656] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql: from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState,currentPage:1,pageSize:3,clazz:null,propertie:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:54:41,656] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where 1=1  and m.receiveState=:m_receiveState and m.receiver.empId=:m_receiver_empId or m.sender.empId=:m_sender_empId and m.sendState=:m_sendState, properties:{m_receiver_empId=1, m_receiveState=2, m_sender_empId=1, m_sendState=5}
+[2017-07-17 09:54:41,944] DEBUG [com.jboa.dao.impl.MailDaoImpl]: hql:select count(*) from Mail m where m.receiveState=0 and m.receiver.empId=1, properties:null
+[2017-07-17 09:55:00,502] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是：select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId
+[2017-07-17 09:55:00,502] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 原本条件为：{l.creator.empId=1}
+[2017-07-17 09:55:00,502] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 过滤后的条件为：{l_creator_empId=1}
+[2017-07-17 09:55:00,502] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select l from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{l_creator_empId=1}
+[2017-07-17 09:55:00,502] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave l left join l.leaveResult where 1=1  and l.creator.empId=:l_creator_empId, properties:{l_creator_empId=1}

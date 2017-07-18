@@ -1,0 +1,6 @@
+1.(用户更新)在进行数据操作时，对于BaseDaoImpl.saveOrUpdateEntity的调用会出现异常？待验证
+2.ajaxSubmit时提交中文乱码，ISO-8859-1？待解决
+3.进行ajax验证时，对于action 配置文件中动态的指定要序列化的对象无效<param type="root">${object }</param>? 原理未知
+4.BaseDaoImpl的getHibernateTemplate.saveOrUpdate()无效？必须使用getSessionFactory().getCurrentSession().saveOrUpdate()? 待验证
+5.Hibernate一对一关联映射无法维护外键，见LeaveDaoImpl.saveOrUpdate()
+6.在jsp/leave/list.jsp中对于全选按钮和测试页面的逻辑相反，且<input type="checkbox" onclick="selectAll()"/>报selectAll not a function

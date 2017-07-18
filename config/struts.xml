@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	
+	<constant name="struts.ui.theme" value="simple" />
+	<constant name="struts.devMode" value="true" />
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+	<constant name="struts.action.extension" value="action" />
+	<constant name="struts.objectFactory" value="spring" />
+	<constant name="struts.custom.i18n.resources" value="ApplicationResources" />
+	<constant name="struts.multipart.maxSize" value="104857600" />
+	<constant name="struts.enable.SlashesInActionNames" value="true" />
+
+	<include file="struts/roleAction.xml"></include>
+	<include file="struts/employeeAction.xml"></include>
+	<include file="struts/leaveAction.xml"></include>
+	<include file="struts/mailAction.xml"></include>
+	<include file="struts/departmentAction.xml"></include>
+	<package name="struts-base" extends="json-default">
+		<global-results>
+<!-- 			<result name="exception">/errorsPage/exception.jsp</result>-->
+			<result name="error">/errorsPage/error.jsp</result> 
+		</global-results>
+		<global-exception-mappings>
+			<exception-mapping result="exception" exception="java.lang.Exception"></exception-mapping>
+		</global-exception-mappings>
+		<action name="exitSystem" class="exitAction">
+			<result>/exit.jsp</result>
+		</action>
+	</package>	
+
+</struts>

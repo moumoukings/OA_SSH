@@ -1,0 +1,242 @@
+[2017-07-09 16:55:30,079] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 16:55:30,079] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 16:59:46,331] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 16:59:46,331] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:06:22,316] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:06:22,316] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:07:52,476] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:07:52,476] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:12:57,605] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:12:57,605] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:18:19,606] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:18:19,606] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:20:03,816] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:20:03,816] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:20:03,912] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:20:03,912] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:20:03,915] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:20:03,915] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:23:47,324] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:23:47,324] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:23:50,654] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:23:50,654] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:23:50,676] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:23:50,676] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:23:50,679] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:23:50,679] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:24:55,520] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:24:55,520] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:24:56,040] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:24:56,040] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:24:56,042] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:24:56,042] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:26:18,936] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:26:18,936] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:27:27,430] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:27:27,430] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:27:31,697] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:27:31,697] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:27:31,713] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:27:31,713] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:27:31,715] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:27:31,715] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:29:14,586] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:29:14,586] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:29:18,199] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:29:18,199] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:29:18,217] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:29:18,217] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:29:18,219] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:29:18,219] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:31:05,868] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:31:05,868] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:31:07,937] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:31:07,937] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:31:52,965] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:31:52,965] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:31:52,968] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:31:52,968] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:31:52,969] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:31:52,969] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:32:18,004] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:32:18,004] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:34:18,901] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:34:18,901] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:34:21,297] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:34:21,297] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:34:21,314] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:34:21,314] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:34:21,316] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:34:21,316] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:41:45,945] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:41:45,945] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:41:51,123] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:41:51,123] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:41:51,148] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:41:51,148] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:41:51,149] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:41:51,149] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:44:16,861] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:44:16,861] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:44:21,363] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:44:21,363] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:44:21,381] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:44:21,381] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:44:21,385] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:44:21,385] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 封装完成准备返回
+[2017-07-09 17:47:11,709] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:47:11,709] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:47:14,718] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:47:14,718] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:47:14,736] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:47:14,736] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:49:33,777] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:49:33,777] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:49:36,001] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:49:36,001] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:49:36,020] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:49:36,020] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:53:48,724] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:53:48,724] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 17:53:51,523] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:53:51,523] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 17:53:51,542] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 17:53:51,542] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:03:10,188] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:03:10,188] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:03:13,099] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:03:13,099] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:03:13,120] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:03:13,120] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:06:00,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:06:00,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:06:05,954] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:06:05,954] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:06:05,977] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:06:05,977] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:08:09,910] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:08:09,910] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:08:12,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:08:12,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:08:12,146] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:08:12,146] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:09:25,685] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:09:25,685] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:09:29,692] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:09:29,692] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:09:29,712] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:09:29,712] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:09:51,944] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:09:51,944] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:09:51,948] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:09:51,948] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:10:55,535] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:10:55,535] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:10:59,927] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:10:59,927] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:10:59,947] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:10:59,947] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:12:37,313] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:12:37,313] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:12:39,538] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:12:39,538] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:12:39,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:12:39,561] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:13:27,804] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:13:27,804] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:13:27,807] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:13:27,807] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:16:47,633] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:16:47,633] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:16:50,198] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:16:50,198] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:16:50,217] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:16:50,217] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:19:30,727] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:19:30,727] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:19:34,443] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:19:34,443] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:19:34,468] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:19:34,468] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:20:48,867] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:20:48,867] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:20:51,071] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:20:51,071] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:20:51,093] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:20:51,093] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:24:23,055] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:24:23,055] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 18:24:26,527] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:24:26,527] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:24:26,545] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:24:26,545] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:25:47,284] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:25:47,284] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:25:47,288] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:25:47,288] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:26:39,410] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:26:39,410] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:26:39,414] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:26:39,414] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:27:38,909] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:27:38,909] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:27:38,912] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:27:38,912] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:28:05,462] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:28:05,462] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:28:05,468] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:28:05,468] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:30:49,124] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:30:49,124] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:30:49,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:30:49,128] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:32:08,358] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:32:08,358] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:32:08,361] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:32:08,361] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:32:11,073] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-09 18:32:11,073] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-09 18:32:11,076] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-09 18:32:11,076] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-09 18:32:14,531] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:32:14,531] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 18:32:14,534] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:32:14,534] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 18:32:16,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-09 18:32:16,009] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：2  3
+[2017-07-09 18:32:16,012] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-09 18:32:16,012] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：1
+[2017-07-09 18:32:24,607] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  5
+[2017-07-09 18:32:24,607] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  5
+[2017-07-09 18:32:24,610] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：4
+[2017-07-09 18:32:24,610] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：4
+[2017-07-09 23:40:29,708] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 23:40:29,708] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 用户名为：mm  密码为：1234
+[2017-07-09 23:40:33,168] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:40:33,168] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:40:33,187] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:40:33,187] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:13,289] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:13,289] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:13,293] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:13,293] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:16,966] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:16,966] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:16,970] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:16,970] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:18,445] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:18,445] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 开始查询，相应信息为：1  3
+[2017-07-09 23:41:18,448] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3
+[2017-07-09 23:41:18,448] DEBUG [com.jboa.service.impl.EmployeeServiceImpl]: 获取的集合长度为：3

@@ -1,0 +1,215 @@
+[2017-07-17 08:36:49,506] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:36:49,508] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-17 08:36:49,571] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-17 08:36:53,125] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 08:36:53,125] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 08:36:53,140] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-17 08:36:53,140] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-17 08:37:13,628] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 08:37:13,650] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 08:37:13,650] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 08:37:17,222] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 08:37:17,229] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 08:37:17,243] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 08:38:28,788] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 08:38:28,790] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 08:38:28,791] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 08:38:30,379] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 08:38:30,381] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 08:38:30,387] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 08:38:49,695] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-17 08:38:49,756] DEBUG [com.jboa.action.BaseAction]: 文件存储完成,路径为：F:\JavaExercise\bdqn\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jboa2.0\upload
+[2017-07-17 08:38:49,757] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=1234, content=1234567890, sendTime=null, senderId=null, sendName=null, receiverId=2, receiverName=null, filename=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:38:49,758] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=1234, content=1234567890, sendTime=Mon Jul 17 08:38:49 CST 2017, senderId=1, sendName=e, receiverId=2, receiverName=null, filename=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:38:49,929] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-17 08:39:06,202] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@1ffdb828
+[2017-07-17 08:39:06,473] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 08:39:11,493] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：4
+[2017-07-17 08:39:11,584] DEBUG [com.jboa.action.BaseAction]: 复原完成
+[2017-07-17 08:39:13,810] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：9
+[2017-07-17 08:39:13,885] DEBUG [com.jboa.action.BaseAction]: 复原完成
+[2017-07-17 08:40:34,921] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-17 08:40:34,980] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-17 08:40:45,018] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：18
+[2017-07-17 08:40:45,035] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=18, creator=e, startDate=2017-07-20, endDate=2017-07-28, days=null, reason=aaasssdd, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:40:53,018] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-17 08:40:53,064] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-17 08:40:58,226] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：18
+[2017-07-17 08:40:58,229] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=18, creator=e, startDate=2017-07-18, endDate=2017-07-28, days=null, reason=aaasssdd, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:41:13,185] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:41:13,185] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 08:41:13,189] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 08:41:16,225] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 08:41:16,225] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 08:41:16,228] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-17 08:41:16,228] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-17 08:41:36,282] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：9
+[2017-07-17 08:41:36,338] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=9, title=1234, content=1234567890, sendTime=2017-07-17 08:38:49.0, senderId=1, sendName=e, receiverId=2, receiverName=m, filename=1bfbefba619a4e1fbb9ff006152f4caf.html]
+[2017-07-17 08:41:36,339] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-17 08:42:38,312] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@5b58a686
+[2017-07-17 08:42:38,476] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 08:42:48,974] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-17 08:42:48,985] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=1, state=有效, approveName=m, comment=im change, approveDate=2017-07-15 11:12:39.0, iresult=1, result=同意]
+[2017-07-17 08:42:52,392] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=14, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=0, state=null, approveName=null, comment=im change, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:42:52,392] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:42:52,619] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 08:42:58,200] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-17 08:42:58,212] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, istate=2, state=已失效, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, iresult=0, result=拒绝]
+[2017-07-17 08:43:02,707] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-17 08:43:02,712] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=1, state=有效, approveName=m, comment=im change, approveDate=2017-07-17 08:42:52.0, iresult=0, result=拒绝]
+[2017-07-17 08:43:04,843] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=14, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=im change, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:43:04,843] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:43:04,977] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 08:43:11,125] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：18
+[2017-07-17 08:43:11,129] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=18, creator=e, startDate=2017-07-18, endDate=2017-07-28, days=null, reason=aaasssdd, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:43:15,105] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=18, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=dsddddfff, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:43:15,105] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:43:15,199] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 08:43:46,935] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:43:46,936] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-17 08:43:46,938] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-17 08:43:52,170] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:43:52,170] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 08:43:52,173] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 08:44:02,370] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-17 08:44:02,461] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-17 08:44:17,933] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:44:17,933] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-17 08:44:17,935] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-17 08:44:55,823] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:44:55,823] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 08:44:55,825] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 08:45:04,507] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-17 08:45:04,629] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-17 08:45:13,030] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 08:45:13,030] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-17 08:45:13,032] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 17
+[2017-07-17 08:45:18,363] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：20
+[2017-07-17 08:45:18,372] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=20, creator=m, startDate=2017-07-18, endDate=2017-07-27, days=null, reason=eeee, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:45:21,127] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=20, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=213123, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:45:21,128] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:45:21,253] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 08:45:23,828] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：19
+[2017-07-17 08:45:23,836] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=19, creator=m, startDate=2017-07-27, endDate=2017-07-28, days=null, reason=ffff, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:45:27,076] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=19, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=234324324242, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:45:27,076] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:45:27,209] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 08:45:42,735] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：15
+[2017-07-17 08:45:42,745] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=15, creator=m, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=vacation, leaveType=2, istate=1, state=有效, approveName=mm, comment=good, approveDate=2017-07-15 11:15:37.0, iresult=1, result=同意]
+[2017-07-17 08:45:48,403] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=15, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=0, state=null, approveName=null, comment=3333333, approveDate=null, iresult=null, result=null]
+[2017-07-17 08:45:48,403] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-17 08:45:48,547] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-17 09:15:52,549] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:15:52,553] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-17 09:16:01,572] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:16:01,574] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-17 09:16:01,616] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-17 09:16:05,978] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:16:05,993] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:16:05,994] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 09:16:07,925] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 09:16:07,935] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 09:16:07,957] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 09:16:14,876] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-17 09:16:14,876] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=asdfasdfasdf, content=asdfasdfasdfasdfsd, sendTime=null, senderId=null, sendName=null, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:14,876] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=asdfasdfasdf, content=asdfasdfasdfasdfsd, sendTime=Mon Jul 17 09:16:14 CST 2017, senderId=1, sendName=e, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:15,035] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-17 09:16:16,237] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:16:16,240] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:16:16,240] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 09:16:18,058] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 09:16:18,060] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 09:16:18,066] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 09:16:23,237] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-17 09:16:23,237] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=dfsdfsdf, content=sdfsadfasdfwerqwrqwer, sendTime=null, senderId=null, sendName=null, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:23,238] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=dfsdfsdf, content=sdfsadfasdfwerqwrqwer, sendTime=Mon Jul 17 09:16:23 CST 2017, senderId=1, sendName=e, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:23,390] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-17 09:16:25,102] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:16:25,104] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:16:25,104] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 09:16:26,680] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 09:16:26,683] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 09:16:26,686] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 09:16:35,183] INFO  [com.jboa.action.BaseAction]: 收件人不能为自己
+[2017-07-17 09:16:40,521] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-17 09:16:40,521] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=sdfds, content=fdsfsdfsdfds, sendTime=null, senderId=null, sendName=null, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:40,522] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=sdfds, content=fdsfsdfsdfds, sendTime=Mon Jul 17 09:16:40 CST 2017, senderId=1, sendName=e, receiverId=2, receiverName=null, filename=null]
+[2017-07-17 09:16:40,606] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-17 09:16:53,600] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:16:53,600] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:16:53,604] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:19:49,802] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:19:49,810] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-17 09:20:02,126] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:20:02,127] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:20:02,162] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:24:21,122] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:24:21,122] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-17 09:24:28,633] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:24:28,633] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:24:28,638] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:25:57,001] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:25:57,003] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:25:57,078] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:27:24,828] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:27:24,839] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:27:24,885] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:28:44,889] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:28:44,890] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:28:44,949] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:29:21,233] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：10
+[2017-07-17 09:29:21,504] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=10, title=asdfasdfasdf, content=asdfasdfasdfasdfsd, sendTime=2017-07-17 09:16:14.0, senderId=1, sendName=e, receiverId=2, receiverName=m, filename=null]
+[2017-07-17 09:29:21,504] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-17 09:39:55,708] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:39:55,712] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-17 09:39:55,809] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-17 09:40:02,710] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@662215cb
+[2017-07-17 09:40:02,943] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 09:42:45,702] DEBUG [com.jboa.action.BaseAction]: 待恢复的邮件的ID为：[Ljava.lang.String;@41fc717d
+[2017-07-17 09:42:45,815] DEBUG [com.jboa.action.BaseAction]: 完成恢复
+[2017-07-17 09:44:03,469] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:44:03,472] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-17 09:44:21,334] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-17 09:44:21,335] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-17 09:44:21,369] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-17 09:44:24,305] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:44:24,322] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:44:24,323] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 09:44:27,727] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 09:44:27,727] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-17 09:44:27,754] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-17 09:44:27,754] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-17 09:45:10,634] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:45:10,637] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:45:10,637] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-17 09:45:18,085] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-17 09:45:18,092] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 09:45:18,106] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-17 09:45:32,261] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：2
+[2017-07-17 09:45:32,268] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-17 09:45:32,271] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{5=nm1, 9=e3}
+[2017-07-17 09:48:48,474] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@321c9b75
+[2017-07-17 09:48:48,727] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 09:49:40,227] DEBUG [com.jboa.action.BaseAction]: 待恢复的邮件的ID为：[Ljava.lang.String;@5dbeff26
+[2017-07-17 09:49:40,411] DEBUG [com.jboa.action.BaseAction]: 完成恢复
+[2017-07-17 09:50:18,054] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：null
+[2017-07-17 09:50:18,054] INFO  [com.jboa.action.BaseAction]: 删除时发生异常java.lang.NullPointerException
+[2017-07-17 09:50:31,519] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@e321fbf
+[2017-07-17 09:50:31,613] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 09:50:48,836] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：null
+[2017-07-17 09:50:48,836] INFO  [com.jboa.action.BaseAction]: 删除时发生异常java.lang.NullPointerException
+[2017-07-17 09:50:53,372] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@5e4a298b
+[2017-07-17 09:50:53,416] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-17 09:51:08,148] DEBUG [com.jboa.action.BaseAction]: 待恢复的邮件的ID为：null
+[2017-07-17 09:51:08,148] INFO  [com.jboa.action.BaseAction]: 恢复时发生异常java.lang.NullPointerException
+[2017-07-17 09:51:13,991] DEBUG [com.jboa.action.BaseAction]: 待恢复的邮件的ID为：[Ljava.lang.String;@6d5cf306
+[2017-07-17 09:51:14,119] DEBUG [com.jboa.action.BaseAction]: 完成恢复
+[2017-07-17 09:53:54,650] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：2
+[2017-07-17 09:53:54,666] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=2, title=tttt, content=ttddddddddddddddddddddddddddssssssssssssss, sendTime=2017-07-14 23:14:36.0, senderId=9, sendName=e3, receiverId=1, receiverName=e, filename=ae72f8a4caa0490bb1bb9cda2acbb434.txt]
+[2017-07-17 09:53:54,666] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-17 09:54:00,383] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：5
+[2017-07-17 09:54:00,391] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=5, title=hhdd, content=teeeeedddxxxxxxx, sendTime=2017-07-15 00:51:01.0, senderId=8, sendName=e1, receiverId=1, receiverName=e, filename=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-17 09:54:00,391] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-17 09:54:35,719] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-17 09:54:35,722] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-17 09:54:35,722] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}

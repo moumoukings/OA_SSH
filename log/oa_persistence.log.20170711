@@ -1,0 +1,371 @@
+[2017-07-11 08:22:43,744] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 08:22:46,302] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 08:22:46,303] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 08:22:46,303] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 08:22:49,608] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-11 11:26:54,689] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 11:27:06,902] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 11:27:10,080] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:27:10,080] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:27:10,081] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:27:14,211] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:27:14,216] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 11:27:51,190] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:27:51,192] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 11:27:51,194] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 11:27:51,338] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:27:51,338] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:27:51,338] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:27:59,244] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-11 11:28:38,705] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Executing save method is successful!
+[2017-07-11 11:28:38,786] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:28:38,786] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:28:38,786] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:28:42,204] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:28:42,204] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:2,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:28:42,204] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:28:44,897] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:28:44,897] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:28:44,897] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:45:36,697] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 11:45:38,559] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:45:38,560] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:45:38,561] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:45:44,918] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:45:44,923] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 11:45:58,574] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:45:58,575] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 11:45:58,578] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 11:52:55,887] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 11:52:57,684] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:52:57,686] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:52:57,687] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:53:02,012] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:53:02,018] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 11:56:09,662] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 11:56:11,525] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 11:56:11,525] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 11:56:11,526] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 11:56:13,550] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 11:56:13,556] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:00:09,544] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 12:00:11,450] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:00:11,450] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:00:11,451] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:00:13,584] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:00:13,589] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:13:17,007] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 12:13:21,978] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:13:21,979] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:13:21,980] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:13:25,774] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:13:25,779] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:13:38,073] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:13:38,076] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:13:38,078] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 12:13:38,162] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:13:38,162] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:13:38,163] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:13:41,707] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:13:41,709] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:13:45,320] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-11 12:14:06,387] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:14:06,387] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:14:06,388] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:14:16,888] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:14:16,888] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:2,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:14:16,889] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:14:19,099] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:14:19,099] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:3,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:14:19,099] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:30:42,361] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 12:30:46,338] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:30:46,339] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:30:46,340] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:30:50,021] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:30:50,025] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:31:04,131] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:31:04,134] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:31:04,137] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 12:31:04,164] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:31:04,165] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:31:04,165] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 12:31:14,698] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:31:14,700] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:31:44,639] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 12:31:44,645] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 12:31:44,649] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 12:31:44,686] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 12:31:44,686] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 12:31:44,686] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:39:10,899] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 13:39:13,000] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:39:13,001] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:39:13,002] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:39:21,293] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:39:21,299] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:39:31,414] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:39:31,417] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:39:44,746] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:40:07,410] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:40:07,410] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:40:07,410] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:40:59,758] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:40:59,760] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:41:24,802] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:41:24,827] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:41:46,842] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:42:30,106] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:42:30,106] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:42:30,106] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:44:31,568] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 13:44:34,041] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:44:34,041] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:44:34,042] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:44:44,312] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:44:44,319] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:45:08,712] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:45:08,713] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:45:08,716] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:48:29,839] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:48:29,844] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:48:29,846] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:48:41,385] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:48:41,396] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:48:56,862] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 13:48:58,887] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:48:58,887] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:48:58,887] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:49:01,778] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:49:01,780] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:49:12,798] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:49:12,800] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:49:12,803] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:49:42,429] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:49:42,429] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:49:42,430] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:50:57,543] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 13:50:59,571] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:50:59,571] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:50:59,572] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:51:01,882] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:51:01,887] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:51:07,776] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:51:07,778] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:51:07,781] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:51:14,210] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:51:14,210] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:51:14,210] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:51:17,801] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-11 13:55:49,625] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 13:55:51,541] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:55:51,542] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:55:51,542] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 13:55:54,063] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:FROM com.jboa.entity.Employee n where n.id = 3, properties:{}
+[2017-07-11 13:55:54,069] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: Execute findById method is successful!
+[2017-07-11 13:55:56,778] DEBUG [com.jboa.dao.impl.DepartmentDaoImpl]: hql:from Department, properties:{}
+[2017-07-11 13:56:27,721] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: 更新成功
+[2017-07-11 13:56:27,821] INFO  [com.jboa.dao.impl.EmployeeDaoImpl]: 组装的hql语句是： from Employee where 1=1 
+[2017-07-11 13:56:27,821] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql: from Employee where 1=1 ,currentPage:1,pageSize:3,clazz:null,propertie:{}
+[2017-07-11 13:56:27,821] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:select count(*) from Employee where 1=1 , properties:{}
+[2017-07-11 16:14:51,984] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=mm}
+[2017-07-11 16:15:14,678] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 16:17:26,679] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 16:22:41,561] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-11 16:26:30,726] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 16:27:05,998] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-11 16:42:44,560] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 16:43:11,548] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-11 16:43:11,548] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:43:11 CST 2017, startDate=Fri Jul 14 00:00:00 CST 2017, endDate=Sat Aug 05 00:00:00 CST 2017, event=mm]
+[2017-07-11 16:43:11,565] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-11 16:46:06,300] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 16:46:44,226] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 开始更新/新增
+[2017-07-11 16:46:44,226] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 保存/新增的实体为：Leave [vacationId=null, employee=Employee [empId=1, name=e, password=1234, age=12, phoneNum=11122233322, address=就在路, sex=男], leaveResult=null, createTime=Tue Jul 11 16:46:44 CST 2017, startDate=Thu Jul 13 00:00:00 CST 2017, endDate=Thu Jul 27 00:00:00 CST 2017, event=å¤´ç¼]
+[2017-07-11 16:46:44,257] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: 更新/新增成功
+[2017-07-11 16:47:18,222] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator.empId
+[2017-07-11 16:47:18,223] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator.empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator.empId=1}
+[2017-07-11 16:47:18,223] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator.empId, properties:{creator.empId=1}
+[2017-07-11 18:13:24,510] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:13:29,643] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator.empId
+[2017-07-11 18:13:29,644] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator.empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator.empId=1}
+[2017-07-11 18:13:29,645] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator.empId, properties:{creator.empId=1}
+[2017-07-11 18:16:45,685] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:16:49,153] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator_empId =:creator_empId
+[2017-07-11 18:16:49,153] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator_empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:16:49,155] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator_empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:16:49,204] ERROR [com.jboa.dao.impl.LeaveDaoImpl]: Error getUniqueBeanResult:{}
+org.springframework.dao.InvalidDataAccessResourceUsageException: could not execute query; SQL [select count(*) as col_0_0_ from leave_l leave0_ where 1=1 and creator_empId=?]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.springframework.orm.hibernate3.SessionFactoryUtils.convertHibernateAccessException(SessionFactoryUtils.java:635)
+	at org.springframework.orm.hibernate3.HibernateAccessor.convertHibernateAccessException(HibernateAccessor.java:412)
+	at org.springframework.orm.hibernate3.HibernateTemplate.doExecute(HibernateTemplate.java:412)
+	at org.springframework.orm.hibernate3.HibernateTemplate.execute(HibernateTemplate.java:339)
+	at com.jboa.dao.impl.BaseDaoImpl.getUniqueBeanResult(BaseDaoImpl.java:619)
+	at com.jboa.dao.impl.BaseDaoImpl.getRecordCount(BaseDaoImpl.java:343)
+	at com.jboa.dao.impl.BaseDaoImpl.findPager(BaseDaoImpl.java:525)
+	at com.jboa.dao.impl.BaseDaoImpl.findPager(BaseDaoImpl.java:405)
+	at com.jboa.dao.impl.LeaveDaoImpl.list(LeaveDaoImpl.java:40)
+	at com.jboa.service.impl.LeaveServiceImpl.applyList(LeaveServiceImpl.java:59)
+	at com.jboa.service.impl.LeaveServiceImpl$$FastClassBySpringCGLIB$$e134d09c.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:700)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:96)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:260)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:94)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:633)
+	at com.jboa.service.impl.LeaveServiceImpl$$EnhancerBySpringCGLIB$$cf40e7e8.applyList(<generated>)
+	at com.jboa.action.leave.LeaveInitAction.applyList(LeaveInitAction.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:90)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2235)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2129)
+	at org.hibernate.loader.Loader.list(Loader.java:2124)
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:401)
+	at org.hibernate.hql.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:363)
+	at org.hibernate.engine.query.HQLQueryPlan.performList(HQLQueryPlan.java:196)
+	at org.hibernate.impl.SessionImpl.list(SessionImpl.java:1149)
+	at org.hibernate.impl.QueryImpl.list(QueryImpl.java:102)
+	at org.hibernate.impl.AbstractQueryImpl.uniqueResult(AbstractQueryImpl.java:835)
+	at com.jboa.dao.impl.BaseDaoImpl$4.doInHibernate(BaseDaoImpl.java:631)
+	at org.springframework.orm.hibernate3.HibernateTemplate.doExecute(HibernateTemplate.java:407)
+	... 96 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'creator_empId' in 'where clause'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:353)
+	at com.mysql.jdbc.Util.getInstance(Util.java:336)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1031)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:957)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2938)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1601)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1710)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2436)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1402)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1556)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeQuery(NewProxyPreparedStatement.java:76)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1812)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2232)
+	... 106 more
+[2017-07-11 18:19:18,553] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:19:20,891] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:19:20,891] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:19:20,893] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:21:19,077] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:21:21,210] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:21:21,211] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:21:21,212] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:22:40,458] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:22:40,458] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:22:40,458] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:25:09,644] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:25:12,121] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:25:12,121] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:25:12,122] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:26:55,711] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:26:55,712] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:26:55,712] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:29:25,759] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:29:28,775] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:29:28,776] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:29:28,777] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:31:06,616] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:31:11,880] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:31:11,881] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:31:11,881] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:33:22,110] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:33:24,324] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:33:24,324] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:33:24,325] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:34:49,432] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:34:56,036] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:34:56,036] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:34:56,037] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}
+[2017-07-11 18:39:01,238] DEBUG [com.jboa.dao.impl.EmployeeDaoImpl]: hql:from Employee where name=:username and password=:pwd, properties:{pwd=1234, username=e}
+[2017-07-11 18:39:03,385] INFO  [com.jboa.dao.impl.LeaveDaoImpl]: 组装的hql语句是： from Leave where 1=1  and creator.empId =:creator_empId
+[2017-07-11 18:39:03,385] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql: from Leave where 1=1  and creator.empId =:creator_empId,currentPage:1,pageSize:3,clazz:null,propertie:{creator_empId=1}
+[2017-07-11 18:39:03,386] DEBUG [com.jboa.dao.impl.LeaveDaoImpl]: hql:select count(*) from Leave where 1=1  and creator.empId =:creator_empId, properties:{creator_empId=1}

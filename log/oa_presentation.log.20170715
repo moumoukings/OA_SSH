@@ -1,0 +1,705 @@
+[2017-07-15 00:05:47,993] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 00:05:47,996] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 00:05:48,029] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-15 00:08:28,260] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 00:08:28,261] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 00:08:28,264] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-15 00:08:42,026] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:08:42,089] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:08:42,089] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:09:02,731] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：3
+[2017-07-15 00:09:02,858] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=3, title=feedback, content=hello world, sendTime=2017-07-14 23:35:12.0, senderId=1, sendName=e2, receiverId=1, receiverName=e2, filename=null]
+[2017-07-15 00:09:02,859] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:10:05,499] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:10:05,507] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:10:05,507] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:12:26,795] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:12:26,805] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:12:26,805] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:12:58,363] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:12:58,373] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:12:58,373] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:13:30,537] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:13:30,545] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:13:30,545] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:16:23,033] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:16:23,041] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:16:23,041] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:17:41,354] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：1
+[2017-07-15 00:17:41,362] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=1, title=titlwe, content=hello, sendTime=2017-07-14 21:38:37.0, senderId=1, sendName=e2, receiverId=9, receiverName=e3, filename=b6884afb1a76435e8fcae408d522c200.txt]
+[2017-07-15 00:17:41,362] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:18:02,346] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：3
+[2017-07-15 00:18:02,353] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=3, title=feedback, content=hello world, sendTime=2017-07-14 23:35:12.0, senderId=1, sendName=e2, receiverId=1, receiverName=e2, filename=null]
+[2017-07-15 00:18:02,353] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:18:15,959] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：3
+[2017-07-15 00:18:15,964] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=3, title=feedback, content=hello world, sendTime=2017-07-14 23:35:12.0, senderId=1, sendName=e2, receiverId=1, receiverName=e2, filename=null]
+[2017-07-15 00:18:15,964] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:19:47,708] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：3
+[2017-07-15 00:19:47,713] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=3, title=feedback, content=hello world, sendTime=2017-07-14 23:35:12.0, senderId=1, sendName=e2, receiverId=1, receiverName=e2, filename=null]
+[2017-07-15 00:19:47,713] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:20:11,661] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：3
+[2017-07-15 00:20:11,667] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=3, title=feedback, content=hello world, sendTime=2017-07-14 23:35:12.0, senderId=1, sendName=e2, receiverId=1, receiverName=e2, filename=null]
+[2017-07-15 00:20:11,667] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:20:18,737] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@50aa3c8
+[2017-07-15 00:20:18,825] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 00:32:28,950] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 00:32:28,951] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 00:32:28,983] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-15 00:43:47,045] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：3
+[2017-07-15 00:43:47,196] DEBUG [com.jboa.action.BaseAction]: 复原完成
+[2017-07-15 00:46:55,022] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@4ceebbf
+[2017-07-15 00:46:55,120] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 00:47:03,031] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@180d8b7c
+[2017-07-15 00:47:03,119] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 00:49:46,282] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-15 00:49:46,302] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-15 00:49:46,302] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-15 00:49:48,427] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-15 00:49:48,433] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 00:49:48,446] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e2, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-15 00:49:59,323] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-15 00:49:59,323] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=test1, content=test22, sendTime=null, senderId=null, sendName=null, receiverId=8, receiverName=null, filename=null]
+[2017-07-15 00:49:59,323] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=test1, content=test22, sendTime=Sat Jul 15 00:49:59 CST 2017, senderId=1, sendName=e2, receiverId=8, receiverName=null, filename=null]
+[2017-07-15 00:49:59,429] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-15 00:50:27,801] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 00:50:27,801] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 00:50:27,804] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-15 00:50:33,249] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：4
+[2017-07-15 00:50:33,346] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=4, title=test1, content=test22, sendTime=2017-07-15 00:49:59.0, senderId=1, sendName=e2, receiverId=8, receiverName=e1, filename=null]
+[2017-07-15 00:50:33,346] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:51:01,382] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-15 00:51:01,393] DEBUG [com.jboa.action.BaseAction]: 文件存储完成,路径为：F:\JavaExercise\bdqn\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jboa2.0\upload
+[2017-07-15 00:51:01,393] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=hhdd, content=teeeeedddxxxxxxx, sendTime=null, senderId=null, sendName=null, receiverId=1, receiverName=e2, filename=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-15 00:51:01,393] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=hhdd, content=teeeeedddxxxxxxx, sendTime=Sat Jul 15 00:51:01 CST 2017, senderId=8, sendName=e1, receiverId=1, receiverName=e2, filename=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-15 00:51:01,462] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-15 00:51:14,100] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：5
+[2017-07-15 00:51:14,119] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=5, title=hhdd, content=teeeeedddxxxxxxx, sendTime=2017-07-15 00:51:01.0, senderId=8, sendName=e1, receiverId=1, receiverName=e2, filename=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-15 00:51:14,119] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 00:52:06,170] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：5
+[2017-07-15 00:52:06,176] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=5, title=hhdd, content=teeeeedddxxxxxxx, sendTime=2017-07-15 00:51:01.0, senderId=8, sendName=e1, receiverId=1, receiverName=e2, filename=0a0b204b200d4ba2910167abcbf49e9b.txt]
+[2017-07-15 00:52:06,176] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 01:08:09,091] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 01:08:09,093] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 01:08:09,147] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 22
+[2017-07-15 01:08:10,435] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 01:08:10,435] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 01:08:13,227] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 01:08:13,227] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 01:08:13,241] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 01:08:13,241] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 01:09:02,184] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 01:09:02,184] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 01:09:03,945] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 01:09:03,945] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 01:09:03,948] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 01:09:03,948] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 01:09:10,634] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-15 01:09:10,634] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-15 01:09:10,643] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 01:09:10,643] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:12:42,231] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:12:42,239] ERROR [com.jboa.action.RoleAction]: method getCurrentRights bug:{}
+java.lang.NullPointerException
+	at com.jboa.action.RoleAction.getCurrentRights(RoleAction.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2017-07-15 10:13:39,811] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:13:39,815] ERROR [com.jboa.action.RoleAction]: method getCurrentRights bug:{}
+java.lang.NullPointerException
+	at com.jboa.action.RoleAction.getCurrentRights(RoleAction.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2017-07-15 10:13:58,460] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:13:58,468] ERROR [com.jboa.action.RoleAction]: method getCurrentRights bug:{}
+java.lang.NullPointerException
+	at com.jboa.action.RoleAction.getCurrentRights(RoleAction.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2017-07-15 10:14:18,301] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:14:18,302] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:14:18,332] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:14:19,733] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:14:19,733] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:14:25,210] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 10:14:25,210] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-15 10:14:25,222] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 10:14:25,222] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e2, password=1234, age=21, sex=男, phoneNum=13455667788, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-15 10:14:29,906] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e  e2
+[2017-07-15 10:14:29,906] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 e  e2
+[2017-07-15 10:14:29,916] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:14:29,916] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:14:31,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=1, name=e, password=null, age=21, sex=男, phoneNum=13455667788, address=就在路, role=null]
+[2017-07-15 10:14:31,106] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=1, name=e, password=null, age=21, sex=男, phoneNum=13455667788, address=就在路, role=null]
+[2017-07-15 10:14:31,285] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:14:31,285] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:15:55,177] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:15:55,190] ERROR [com.jboa.action.RoleAction]: method getCurrentRights bug:{}
+java.lang.NullPointerException
+	at com.jboa.action.RoleAction.getCurrentRights(RoleAction.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:236)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:511)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.springframework.orm.hibernate3.support.OpenSessionInViewFilter.doFilterInternal(OpenSessionInViewFilter.java:232)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:192)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:165)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:783)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:798)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1441)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+[2017-07-15 10:19:45,051] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:19:45,054] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:20:35,857] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:20:35,857] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:20:35,895] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:23:58,585] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:23:58,589] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:24:25,902] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:24:25,904] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:25:44,659] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:25:44,662] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:27:04,071] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:27:04,071] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:27:04,106] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:27:15,915] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:27:15,916] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:27:15,921] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:27:25,241] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:27:25,241] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:35:19,210] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:35:19,214] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:36:20,283] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:36:20,285] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:36:20,318] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:37:19,965] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:37:19,965] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:37:30,690] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:37:30,690] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:37:30,703] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:37:30,703] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:37:57,724] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-15 10:37:57,724] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-15 10:37:57,731] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:37:57,731] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:37:59,209] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mmm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:37:59,209] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mmm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:43:17,295] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:43:17,296] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:44:07,699] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:44:07,699] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:44:07,703] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:44:09,698] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:44:09,698] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:44:11,163] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:44:11,163] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:44:11,168] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mmm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:44:11,168] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mmm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:44:16,772] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:16,772] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:16,773] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:16,773] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:18,946] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:18,946] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:18,947] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:18,947] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:19,068] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:19,068] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:44:19,070] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:19,070] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:44:20,307] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:44:20,307] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:44:58,682] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:44:58,682] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:47:35,516] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:47:35,518] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:47:35,594] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:48:16,884] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:48:16,884] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:48:19,714] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:48:19,714] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:48:19,729] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:48:19,729] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:48:28,983] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-15 10:48:28,983] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mmm  mm
+[2017-07-15 10:48:28,990] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:48:28,990] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:48:30,338] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mmm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:48:30,338] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mmm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:51:15,618] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:51:15,629] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:51:27,740] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:51:27,741] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:51:27,783] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:51:28,925] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:51:28,925] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-15 10:51:32,370] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:51:32,370] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-15 10:51:32,388] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mmm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:51:32,388] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mmm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-15 10:51:37,560] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:51:37,560] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:51:37,566] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:51:37,566] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:51:37,617] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:51:37,617] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 验证用户名开始执行,传入参数为 mm  mmm
+[2017-07-15 10:51:37,619] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:51:37,619] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 用户名可用
+[2017-07-15 10:51:38,964] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:51:38,964] DEBUG [com.jboa.action.employee.EmployeeAjaxAction]: 获取到的用户信息为：DetailEmployee [id=3, name=mm, password=null, age=35, sex=女, phoneNum=13344555578, address=望江路, role=null]
+[2017-07-15 10:51:47,310] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.dao.DataIntegrityViolationException: could not execute query; SQL [select count(*) as col_0_0_ from leave_l leave0_ left outer join leave_result leaveresul1_ on leave0_.l_resutl_id=leaveresul1_.l_resutl_id, employee employee3_ where leave0_.creator=employee3_.emp_id and 1=1 and leaveresul1_.result=? and employee3_.role=? and state=?]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute query
+[2017-07-15 10:56:01,094] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:56:01,101] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 10:56:07,618] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 10:56:07,619] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 10:56:07,657] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 10:56:13,511] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:com.jboa.exception.HibernateDaoSupportException: Error getUniqueBeanResult (#com.jboa.dao.impl.LeaveDaoImpl#):org.springframework.orm.hibernate3.HibernateQueryException: Not all named parameters have been set: [l_leaveResult] [select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=:l_leaveResult]; nested exception is org.hibernate.QueryException: Not all named parameters have been set: [l_leaveResult] [select count(*) from Leave l left join l.leaveResult where 1=1  and l.state=:l_state and l.creator.role.id=:l_creator_role_id and l.leaveResult=:l_leaveResult]
+[2017-07-15 11:02:53,913] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:02:53,917] DEBUG [com.jboa.action.RoleAction]: 未登录
+[2017-07-15 11:03:01,017] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:03:01,017] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 11:03:01,051] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-15 11:04:29,226] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-15 11:04:29,336] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-15 11:04:41,527] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-15 11:04:41,546] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, istate=2, state=已失效, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, iresult=0, result=拒绝]
+[2017-07-15 11:06:14,585] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：13
+[2017-07-15 11:06:14,593] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=13, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=tired, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:06:30,637] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@5d810126
+[2017-07-15 11:06:30,822] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 11:08:15,714] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:08:15,714] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-15 11:08:15,718] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 25
+[2017-07-15 11:08:55,345] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-15 11:08:55,353] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:09:06,361] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=14, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=aggree, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:09:06,361] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:09:06,542] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:09:15,009] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-15 11:09:15,015] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, istate=2, state=已失效, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, iresult=0, result=拒绝]
+[2017-07-15 11:09:20,821] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-15 11:09:20,828] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=0, state=有效, approveName=m, comment=aggree, approveDate=2017-07-15 11:09:06.0, iresult=1, result=同意]
+[2017-07-15 11:09:28,974] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=14, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=0, state=null, approveName=null, comment=im change, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:09:28,974] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:09:29,060] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:12:36,851] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-15 11:12:36,858] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=1, state=有效, approveName=m, comment=im change, approveDate=2017-07-15 11:09:28.0, iresult=0, result=拒绝]
+[2017-07-15 11:12:39,140] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=14, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=im change, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:12:39,140] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:12:39,219] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:13:15,654] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：9
+[2017-07-15 11:13:15,664] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=9, creator=m, startDate=2017-07-14, endDate=2017-07-21, days=null, reason=ceshi, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:13:34,008] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：9
+[2017-07-15 11:13:34,012] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=9, creator=m, startDate=2017-07-14, endDate=2017-07-21, days=null, reason=ceshi, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:13:51,465] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：10
+[2017-07-15 11:13:51,474] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=10, creator=m, startDate=2017-07-14, endDate=2017-07-20, days=null, reason=lot thing todo, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:14:10,685] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-15 11:14:10,779] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-15 11:14:20,387] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-15 11:14:20,473] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-15 11:14:42,882] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:14:42,882] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 11:14:42,884] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 11:14:56,494] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:14:56,494] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 11:14:56,497] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-15 11:15:03,779] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-15 11:15:03,849] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-15 11:15:15,473] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:15:15,473] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 11:15:15,476] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 11:15:26,513] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：15
+[2017-07-15 11:15:26,523] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=15, creator=m, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=vacation, leaveType=2, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:15:37,465] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=15, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=good, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:15:37,465] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:15:37,580] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:15:39,149] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：16
+[2017-07-15 11:15:39,160] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=16, creator=m, startDate=2017-07-19, endDate=2017-07-27, days=null, reason=ddddddd, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:15:45,477] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=16, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=0, state=null, approveName=null, comment=not ok, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:15:45,477] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:15:45,563] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:15:53,623] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：15
+[2017-07-15 11:15:53,630] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=15, creator=m, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=vacation, leaveType=2, istate=0, state=有效, approveName=mm, comment=good, approveDate=2017-07-15 11:15:37.0, iresult=1, result=同意]
+[2017-07-15 11:16:02,883] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：15
+[2017-07-15 11:16:02,890] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=15, creator=m, startDate=2017-07-16, endDate=2017-07-19, days=null, reason=vacation, leaveType=2, istate=0, state=有效, approveName=mm, comment=good, approveDate=2017-07-15 11:15:37.0, iresult=1, result=同意]
+[2017-07-15 11:16:17,075] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:16:17,075] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-15 11:16:17,083] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 25
+[2017-07-15 11:16:21,079] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：9
+[2017-07-15 11:16:21,082] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=9, creator=m, startDate=2017-07-14, endDate=2017-07-21, days=null, reason=ceshi, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:16:44,173] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:16:44,173] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-15 11:16:44,176] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-15 11:16:54,805] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-15 11:16:54,810] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=1, state=有效, approveName=m, comment=im change, approveDate=2017-07-15 11:12:39.0, iresult=1, result=同意]
+[2017-07-15 11:17:08,924] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:17:08,924] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-15 11:17:08,926] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 25
+[2017-07-15 11:19:33,841] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：9
+[2017-07-15 11:19:33,845] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=9, creator=m, startDate=2017-07-14, endDate=2017-07-21, days=null, reason=ceshi, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:19:53,756] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：9
+[2017-07-15 11:19:53,760] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=9, creator=m, startDate=2017-07-14, endDate=2017-07-21, days=null, reason=ceshi, leaveType=0, istate=1, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:20:02,356] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：17
+[2017-07-15 11:20:02,364] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=17, creator=e, startDate=2017-07-16, endDate=2017-07-20, days=null, reason=fdfff, leaveType=0, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:20:08,174] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=17, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=gggg, approveDate=null, iresult=null, result=null]
+[2017-07-15 11:20:08,174] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-15 11:20:08,233] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-15 11:20:11,817] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：14
+[2017-07-15 11:20:11,823] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=14, creator=e, startDate=2017-07-15, endDate=2017-07-19, days=null, reason=mmm, leaveType=0, istate=1, state=有效, approveName=m, comment=im change, approveDate=2017-07-15 11:12:39.0, iresult=1, result=同意]
+[2017-07-15 11:20:19,576] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-15 11:20:19,602] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-15 11:20:19,602] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-15 11:20:20,918] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-15 11:20:20,922] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 11:20:20,935] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-15 11:20:51,207] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：2
+[2017-07-15 11:20:51,213] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 11:20:51,214] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{5=nm1, 9=e3}
+[2017-07-15 11:20:53,476] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-15 11:20:53,478] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 11:20:53,480] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-15 11:20:56,395] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-15 11:20:56,410] DEBUG [com.jboa.action.BaseAction]: 文件存储完成,路径为：F:\JavaExercise\bdqn\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jboa2.0\upload
+[2017-07-15 11:20:56,410] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=gooddmm, content=ccccffffggggghhhbbbbnnn, sendTime=null, senderId=null, sendName=null, receiverId=3, receiverName=null, filename=11343ba57d204d7f8d1e60b2ef978804.txt]
+[2017-07-15 11:20:56,411] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=gooddmm, content=ccccffffggggghhhbbbbnnn, sendTime=Sat Jul 15 11:20:56 CST 2017, senderId=2, sendName=m, receiverId=3, receiverName=null, filename=11343ba57d204d7f8d1e60b2ef978804.txt]
+[2017-07-15 11:20:56,498] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-15 11:21:05,119] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：null
+[2017-07-15 11:21:05,119] INFO  [com.jboa.action.BaseAction]: 删除时发生异常java.lang.NullPointerException
+[2017-07-15 11:21:09,628] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@4157319c
+[2017-07-15 11:21:09,712] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 11:21:22,261] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：6
+[2017-07-15 11:21:22,323] DEBUG [com.jboa.action.BaseAction]: 复原完成
+[2017-07-15 11:21:33,521] DEBUG [com.jboa.action.BaseAction]: 开始查询部门列表
+[2017-07-15 11:21:33,523] DEBUG [com.jboa.action.BaseAction]: 查询成功，开始封装为键值对
+[2017-07-15 11:21:33,523] DEBUG [com.jboa.action.BaseAction]: 部门表为：{1=产品研发, 2=市场部}
+[2017-07-15 11:21:35,751] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：2
+[2017-07-15 11:21:35,752] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 11:21:35,753] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{5=nm1, 9=e3}
+[2017-07-15 11:21:37,673] DEBUG [com.jboa.action.BaseAction]: 开始查询，获取的部门id为：1
+[2017-07-15 11:21:37,675] DEBUG [com.jboa.action.BaseAction]: 查询成功
+[2017-07-15 11:21:37,676] DEBUG [com.jboa.action.BaseAction]: 封装后的员工信息为：{1=e, 2=m, 3=mm, 4=f, 6=mm1, 7=mm3, 8=e1}
+[2017-07-15 11:21:54,749] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-15 11:21:54,754] DEBUG [com.jboa.action.BaseAction]: 文件存储完成,路径为：F:\JavaExercise\bdqn\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jboa2.0\upload
+[2017-07-15 11:21:54,754] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=tttttggg, content=dddeeellleeeetttee, sendTime=null, senderId=null, sendName=null, receiverId=3, receiverName=null, filename=b6791e108c7544ae9bddc2f5786d332b.txt]
+[2017-07-15 11:21:54,754] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=tttttggg, content=dddeeellleeeetttee, sendTime=Sat Jul 15 11:21:54 CST 2017, senderId=2, sendName=m, receiverId=3, receiverName=null, filename=b6791e108c7544ae9bddc2f5786d332b.txt]
+[2017-07-15 11:21:54,844] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-15 11:22:03,680] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:22:03,680] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-15 11:22:03,682] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 23
+[2017-07-15 11:22:15,262] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：6
+[2017-07-15 11:22:15,316] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=6, title=gooddmm, content=ccccffffggggghhhbbbbnnn, sendTime=2017-07-15 11:20:56.0, senderId=2, sendName=m, receiverId=3, receiverName=mm, filename=11343ba57d204d7f8d1e60b2ef978804.txt]
+[2017-07-15 11:22:15,316] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 11:22:40,650] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：7
+[2017-07-15 11:22:40,686] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=7, title=tttttggg, content=dddeeellleeeetttee, sendTime=2017-07-15 11:21:54.0, senderId=2, sendName=m, receiverId=3, receiverName=mm, filename=b6791e108c7544ae9bddc2f5786d332b.txt]
+[2017-07-15 11:22:40,686] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 11:22:48,192] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@309bf26c
+[2017-07-15 11:22:48,247] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 11:23:02,995] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：7
+[2017-07-15 11:23:03,000] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=7, title=tttttggg, content=dddeeellleeeetttee, sendTime=2017-07-15 11:21:54.0, senderId=2, sendName=m, receiverId=3, receiverName=mm, filename=b6791e108c7544ae9bddc2f5786d332b.txt]
+[2017-07-15 11:23:03,001] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 11:23:22,475] DEBUG [com.jboa.action.BaseAction]: 准备存储文件
+[2017-07-15 11:23:22,480] DEBUG [com.jboa.action.BaseAction]: 文件存储完成,路径为：F:\JavaExercise\bdqn\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\jboa2.0\upload
+[2017-07-15 11:23:22,480] DEBUG [com.jboa.action.BaseAction]: 已接收，获取的内容为：DetailMail [mailId=null, title=ooookkkk, content=ggggggggoooooootttttttttttiiiiiiitttttttttttttt, sendTime=null, senderId=null, sendName=null, receiverId=2, receiverName=m, filename=85a885b0de1a4b45a6f975150ff241d9.log]
+[2017-07-15 11:23:22,481] DEBUG [com.jboa.action.BaseAction]: 待发送的邮件内容为：DetailMail [mailId=null, title=ooookkkk, content=ggggggggoooooootttttttttttiiiiiiitttttttttttttt, sendTime=Sat Jul 15 11:23:22 CST 2017, senderId=3, sendName=mm, receiverId=2, receiverName=m, filename=85a885b0de1a4b45a6f975150ff241d9.log]
+[2017-07-15 11:23:22,588] DEBUG [com.jboa.action.BaseAction]: 发送成功
+[2017-07-15 11:23:33,534] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:23:33,535] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-15 11:23:33,539] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 25
+[2017-07-15 11:23:39,757] DEBUG [com.jboa.action.BaseAction]: 要查看的的邮件ID为：8
+[2017-07-15 11:23:39,791] DEBUG [com.jboa.action.BaseAction]: 查询到的邮件为：DetailMail [mailId=8, title=ooookkkk, content=ggggggggoooooootttttttttttiiiiiiitttttttttttttt, sendTime=2017-07-15 11:23:22.0, senderId=3, sendName=mm, receiverId=2, receiverName=m, filename=85a885b0de1a4b45a6f975150ff241d9.log]
+[2017-07-15 11:23:39,791] DEBUG [com.jboa.action.BaseAction]: 查询完成
+[2017-07-15 11:42:18,370] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-15 11:42:18,370] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-15 11:42:18,373] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 25
+[2017-07-15 11:42:25,586] DEBUG [com.jboa.action.BaseAction]: 待删除的邮件的ID为：[Ljava.lang.String;@44f08b46
+[2017-07-15 11:42:25,683] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-15 11:42:30,214] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：6
+[2017-07-15 11:42:30,309] DEBUG [com.jboa.action.BaseAction]: 复原完成
+[2017-07-15 11:42:33,195] DEBUG [com.jboa.action.BaseAction]: 待还原的邮件ID为：7
+[2017-07-15 11:42:33,288] DEBUG [com.jboa.action.BaseAction]: 复原完成

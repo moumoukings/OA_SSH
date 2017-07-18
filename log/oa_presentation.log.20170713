@@ -1,0 +1,396 @@
+[2017-07-13 00:06:14,571] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:06:14,573] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:06:14,616] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:10:58,701] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:10:58,704] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:10:58,739] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:12:27,105] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:12:27,114] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:15:20,882] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:15:20,886] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:16:00,815] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=bad atd, approveDate=null, istate=2, state=null]
+[2017-07-13 00:16:00,815] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:16:00,892] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:19:34,218] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:19:34,220] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:19:34,276] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:19:38,875] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:19:38,884] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:20:05,877] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=sorry, refuse, approveDate=null, istate=2, state=null]
+[2017-07-13 00:20:05,878] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:20:06,045] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:24:12,585] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.lang.NullPointerException
+[2017-07-13 00:25:41,428] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:25:41,428] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:25:41,511] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:26:13,562] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:26:13,571] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:27:42,879] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:27:42,884] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:27:58,487] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=no i refuse, approveDate=null, istate=2, state=null]
+[2017-07-13 00:27:58,487] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:27:58,548] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:28:28,764] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:28:28,770] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:36:24,292] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:36:24,294] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:36:24,350] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:36:27,790] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:36:27,800] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:36:41,369] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=no ,refuse again, approveDate=null, istate=2, state=null]
+[2017-07-13 00:36:41,370] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:36:41,458] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:40:51,296] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:40:51,297] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:40:51,334] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:40:54,738] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:40:54,747] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:41:02,019] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=come on, approveDate=null, istate=2, state=null]
+[2017-07-13 00:41:02,019] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:41:02,075] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:50:34,043] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:50:34,044] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:50:34,114] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:50:37,805] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:50:37,813] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:50:40,571] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=ddd, approveDate=null, istate=2, state=null]
+[2017-07-13 00:50:40,572] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:50:40,680] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:52:23,829] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:52:23,831] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:52:23,877] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:52:30,250] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:52:30,260] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:52:33,066] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=ggg, approveDate=null, istate=2, state=null]
+[2017-07-13 00:52:33,067] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:52:33,145] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 00:54:10,888] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 00:54:10,890] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 00:54:10,928] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 00:54:14,175] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 00:54:14,183] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 00:54:17,557] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=qwer, approveDate=null, istate=2, state=null]
+[2017-07-13 00:54:17,558] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 00:54:17,563] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 01:04:13,733] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 01:04:13,735] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 01:04:13,782] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 01:04:16,803] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 01:04:16,813] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 01:04:20,067] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=dd, approveDate=null, istate=2, state=null]
+[2017-07-13 01:04:20,067] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 01:04:20,132] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 01:10:45,694] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 01:10:45,696] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 01:10:45,738] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 01:10:49,874] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 01:10:49,883] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 01:10:53,629] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=gggg, approveDate=null, istate=2, state=null]
+[2017-07-13 01:10:53,629] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 01:10:53,822] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 11:06:56,241] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 11:06:56,265] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 11:06:56,304] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 11:08:11,203] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-13 11:08:11,399] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-13 11:08:33,275] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 11:08:33,285] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, approveName=null, comment=null, approveDate=null, istate=0, state=待审批]
+[2017-07-13 11:08:41,376] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=5, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=agree, approveDate=null, istate=1, state=null]
+[2017-07-13 11:08:41,376] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 11:08:41,590] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 11:27:59,089] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 11:27:59,091] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 11:27:59,130] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 21
+[2017-07-13 11:35:14,178] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 11:35:14,179] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 11:35:14,227] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 21
+[2017-07-13 11:35:24,922] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-13 11:35:24,934] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, istate=2, state=拒绝]
+[2017-07-13 11:38:54,963] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 11:38:54,975] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, approveName=m, comment=agree, approveDate=2017-07-13 11:08:41.0, istate=1, state=同意]
+[2017-07-13 11:40:57,675] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 11:40:57,681] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, approveName=m, comment=agree, approveDate=2017-07-13 11:08:41.0, istate=1, state=同意]
+[2017-07-13 11:41:21,459] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 11:41:21,469] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, approveName=m, comment=agree, approveDate=2017-07-13 11:08:41.0, istate=1, state=同意]
+[2017-07-13 11:44:26,471] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 11:44:26,483] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, approveName=m, comment=agree, approveDate=2017-07-13 11:08:41.0, istate=1, state=同意]
+[2017-07-13 11:46:50,518] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=5, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=too long, approveDate=null, istate=0, state=null]
+[2017-07-13 11:46:50,519] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 11:46:50,775] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 11:48:33,746] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-13 11:48:33,752] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, istate=2, state=拒绝]
+[2017-07-13 11:50:33,429] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 11:50:33,439] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, approveName=m, comment=gggg, approveDate=2017-07-13 01:10:53.0, istate=2, state=拒绝]
+[2017-07-13 11:51:02,646] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=I aggree, approveDate=null, istate=1, state=null]
+[2017-07-13 11:51:02,646] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 11:51:02,704] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 11:52:11,812] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：8
+[2017-07-13 11:52:11,822] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=8, creator=e, startDate=2017-07-13, endDate=2017-07-14, days=null, reason=ss, leaveType=2, approveName=m, comment=同意, approveDate=2017-07-12 11:16:45.0, istate=1, state=同意]
+[2017-07-13 11:52:21,012] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=8, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, approveName=null, comment=butongyi, approveDate=null, istate=0, state=null]
+[2017-07-13 11:52:21,012] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 11:52:21,133] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 13:25:55,854] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 13:25:55,855] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 13:25:55,907] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 21
+[2017-07-13 13:26:59,698] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：1
+[2017-07-13 13:26:59,710] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=1, creator=e, startDate=2017-07-12, endDate=2017-07-12, days=null, reason=真的有事, leaveType=1, istate=2, state=已失效, approveName=m, comment=同意, approveDate=2017-07-12 17:46:54.0, iresult=0, result=拒绝]
+[2017-07-13 13:27:46,915] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 13:27:46,927] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, istate=0, state=有效, approveName=m, comment=too long, approveDate=2017-07-13 11:46:50.0, iresult=0, result=拒绝]
+[2017-07-13 13:29:00,569] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 13:29:00,578] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, istate=1, state=有效, approveName=m, comment=I aggree, approveDate=2017-07-13 11:51:02.0, iresult=1, result=同意]
+[2017-07-13 13:29:52,294] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=0, state=null, approveName=null, comment=work hard, approveDate=null, iresult=null, result=null]
+[2017-07-13 13:29:52,294] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 13:29:52,485] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 13:29:55,798] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：4
+[2017-07-13 13:29:55,806] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=4, creator=e, startDate=2017-07-13, endDate=2017-07-27, days=null, reason=hh, leaveType=2, istate=1, state=有效, approveName=m, comment=work hard, approveDate=2017-07-13 13:29:52.0, iresult=0, result=拒绝]
+[2017-07-13 13:30:11,642] DEBUG [com.jboa.action.BaseAction]: 获得审批结果为：DetailLeave [flag=true, id=4, creator=null, startDate=null, endDate=null, days=null, reason=null, leaveType=null, istate=1, state=null, approveName=null, comment=good job, approveDate=null, iresult=null, result=null]
+[2017-07-13 13:30:11,642] DEBUG [com.jboa.action.BaseAction]: 开始进行审批
+[2017-07-13 13:30:11,704] DEBUG [com.jboa.action.BaseAction]: 审批成功
+[2017-07-13 13:30:50,121] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-13 13:30:50,204] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-13 13:31:12,792] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 13:31:12,792] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 13:31:12,796] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 13:34:24,004] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 13:34:24,005] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 13:34:24,008] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 13:36:19,739] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 13:36:19,743] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, istate=0, state=有效, approveName=m, comment=too long, approveDate=2017-07-13 11:46:50.0, iresult=0, result=拒绝]
+[2017-07-13 13:37:48,575] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：5
+[2017-07-13 13:37:48,580] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=5, creator=e, startDate=2017-07-21, endDate=2017-08-30, days=null, reason=mm, leaveType=0, istate=0, state=有效, approveName=m, comment=too long, approveDate=2017-07-13 11:46:50.0, iresult=0, result=拒绝]
+[2017-07-13 13:37:56,956] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-13 13:37:56,962] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=3, creator=e, startDate=2017-07-20, endDate=2017-08-24, days=null, reason=take a change, leaveType=2, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-13 13:38:16,672] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-13 13:38:16,892] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-13 13:38:24,303] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：3
+[2017-07-13 13:38:24,305] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=3, creator=e, startDate=2017-07-14, endDate=2017-08-24, days=null, reason=give me a break, leaveType=2, istate=0, state=有效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-13 13:50:18,768] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 13:50:18,770] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 13:50:18,817] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 13:52:36,135] INFO  [com.jboa.action.BaseAction]: 查询列表时发生异常:java.util.ConcurrentModificationException
+[2017-07-13 14:13:27,531] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 14:13:27,533] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 14:13:27,573] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 14:18:14,203] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 14:18:14,206] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 14:18:14,249] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 14:18:51,037] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 14:18:51,038] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 14:18:51,044] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 21
+[2017-07-13 14:22:33,572] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 14:22:33,574] DEBUG [com.jboa.action.RoleAction]: 角色ID为：2
+[2017-07-13 14:22:33,610] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 21
+[2017-07-13 15:41:32,385] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 15:41:32,386] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 15:41:32,419] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 15:55:18,233] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 15:55:18,235] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 15:55:18,272] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:25:33,544] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:25:33,545] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:25:33,587] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:30:12,059] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:30:12,059] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:30:12,065] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:33:28,188] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:33:28,188] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:33:28,191] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:36:59,514] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:36:59,515] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:36:59,516] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:43:29,919] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@10421eaf
+[2017-07-13 16:43:29,919] INFO  [com.jboa.action.BaseAction]: 删除时发生异常java.lang.NumberFormatException: For input string: "true"
+[2017-07-13 16:45:08,425] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:45:08,427] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:45:08,462] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:47:12,731] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@54ae757d
+[2017-07-13 16:47:12,732] INFO  [com.jboa.action.BaseAction]: 删除时发生异常java.lang.NumberFormatException: For input string: "true"
+[2017-07-13 16:48:33,197] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:48:33,199] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:48:33,243] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:50:34,308] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@65d44587
+[2017-07-13 16:50:34,431] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 16:51:20,930] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@14c17987
+[2017-07-13 16:54:20,968] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:54:20,970] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:54:21,033] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:54:28,311] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@6b247b98
+[2017-07-13 16:54:28,472] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 16:56:34,301] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:56:34,302] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:56:34,336] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:56:47,062] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@21c472aa
+[2017-07-13 16:56:47,166] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 16:59:18,936] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 16:59:18,938] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 16:59:18,969] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 16:59:34,669] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@45372027
+[2017-07-13 16:59:34,729] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 17:00:51,686] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:00:51,687] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:00:51,691] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:00:58,376] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@7150a3a8
+[2017-07-13 17:00:58,384] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 17:01:17,057] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@5b57d5c5
+[2017-07-13 17:02:35,321] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:02:35,326] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:02:35,380] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:02:42,710] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@be76248
+[2017-07-13 17:02:42,815] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 17:03:05,997] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@7880cb71
+[2017-07-13 17:03:06,007] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 17:03:31,235] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-13 17:03:31,397] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-13 17:04:14,289] DEBUG [com.jboa.action.BaseAction]: leaveId 的值为：7
+[2017-07-13 17:04:14,296] DEBUG [com.jboa.action.BaseAction]: 获取的detailLeave是： DetailLeave [flag=true, id=7, creator=e, startDate=2017-06-16, endDate=2017-06-21, days=null, reason=kk, leaveType=2, istate=2, state=已失效, approveName=null, comment=null, approveDate=null, iresult=null, result=null]
+[2017-07-13 17:04:41,190] DEBUG [com.jboa.action.BaseAction]: 待删除的请假单的ID为：[Ljava.lang.String;@70b094c4
+[2017-07-13 17:04:41,200] DEBUG [com.jboa.action.BaseAction]: 完成删除
+[2017-07-13 17:05:23,270] DEBUG [com.jboa.action.BaseAction]: 开始ajax异步新增/更新
+[2017-07-13 17:05:23,362] DEBUG [com.jboa.action.BaseAction]: 新增/更新成功
+[2017-07-13 17:08:03,502] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:08:03,503] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:08:03,508] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:10:28,825] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:10:28,826] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:10:28,830] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:10:37,633] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:10:37,634] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:10:37,638] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:11:00,660] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:11:00,660] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:11:00,666] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:11:14,934] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:11:14,934] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:11:14,938] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:11:24,187] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:11:24,187] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:11:24,190] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:11:57,873] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:11:57,873] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:11:57,876] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:12:07,322] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:12:07,325] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:12:07,327] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:12:18,188] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:12:18,189] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:12:18,191] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:18:21,608] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:18:21,609] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 17:18:21,612] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 18
+[2017-07-13 17:18:23,086] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 17:18:23,086] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 17:24:46,440] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:24:46,440] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:24:46,442] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 17:28:45,852] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:28:45,853] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 17:28:45,854] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 17:28:51,018] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 17:28:51,018] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 17:29:45,640] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 17:29:45,640] DEBUG [com.jboa.action.RoleAction]: 角色ID为：1
+[2017-07-13 17:29:45,643] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 15
+[2017-07-13 18:31:51,599] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 18:31:51,601] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 18:31:51,642] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 18:31:53,806] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 18:31:53,806] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 18:40:37,894] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 18:40:37,894] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 18:40:37,896] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 18:40:39,477] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 18:40:39,477] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 18:40:44,584] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-13 18:40:44,584] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-13 18:40:44,594] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=12, sex=男, phoneNum=11122233322, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-13 18:40:44,594] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=12, sex=男, phoneNum=11122233322, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-13 18:40:54,405] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-13 18:40:54,405] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-13 18:40:54,414] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 18:40:54,414] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=1234, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 21:53:04,129] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 21:53:04,131] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 21:53:04,171] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 21:57:13,193] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 21:57:13,194] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 21:57:13,234] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 22:31:54,535] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 22:31:54,537] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 22:31:54,577] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 22:35:16,546] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 22:35:16,546] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 22:35:16,549] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 22:39:40,097] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 22:39:40,098] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 22:39:40,137] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 22:55:45,207] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 22:55:45,209] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 22:55:45,247] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 23:03:12,763] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:03:12,763] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:04:27,921] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:04:27,921] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:04:35,057] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:04:35,057] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:04:37,166] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:04:37,166] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:04:37,177] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:04:37,177] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:04:44,239] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:04:44,239] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:04:48,281] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-13 23:04:48,281] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:3
+[2017-07-13 23:04:48,290] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:04:48,290] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:04:56,324] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:04:56,324] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:07:36,293] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 23:07:36,297] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 23:07:36,358] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 23:07:40,458] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:07:40,458] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:11:22,408] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 23:11:22,409] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 23:11:22,451] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 23:11:23,971] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:11:23,971] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:15:25,678] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 23:15:25,679] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 23:15:25,710] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 23:15:28,253] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:15:28,253] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:15:28,266] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:15:28,266] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:15:59,659] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:15:59,659] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:16:02,449] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:16:02,449] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:16:02,459] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:16:02,459] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:16:08,119] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:16:08,119] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:16:08,122] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:16:08,122] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:16:59,801] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-13 23:16:59,802] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-13 23:16:59,806] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-13 23:17:01,114] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:17:01,114] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:null
+[2017-07-13 23:17:01,117] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:17:01,117] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=3, name=mm, password=12345, age=35, sex=女, phoneNum=13344555578, address=望江路, role=Role [id=3, rolename=经理]]
+[2017-07-13 23:17:02,780] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:17:02,780] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:17:04,495] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:17:04,495] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:17:04,499] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:17:04,499] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:17:22,576] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-13 23:17:22,576] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:1
+[2017-07-13 23:17:22,583] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=12, sex=男, phoneNum=11122233322, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-13 23:17:22,583] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=1, name=e, password=1234, age=12, sex=男, phoneNum=11122233322, address=就在路, role=Role [id=1, rolename=员工]]
+[2017-07-13 23:19:55,344] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:19:55,344] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-13 23:19:56,589] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:19:56,589] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取的ID为:2
+[2017-07-13 23:19:56,592] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]
+[2017-07-13 23:19:56,592] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 查询到的员工信息为： DetailEmployee [id=2, name=m, password=1234, age=13, sex=男, phoneNum=15544334455, address=留在路, role=Role [id=2, rolename=部门经理]]

@@ -1,0 +1,68 @@
+.wrap{
+    width: 750px;
+}
+.wrap .wrap-head{
+    width: 140px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    border-radius: 10px 10px 0 0;
+    background: #f3f3f3;
+    color: #666;
+}
+.wrap-body{
+    box-sizing: border-box;
+    min-height: 360px;
+    padding: 40px 20px;
+    border-radius: 0 10px 10px;
+    font-size: 16px;
+    background: #fff;
+}
+.wrap-body .info{
+    margin-left: 160px;
+}
+.wrap-body .info p{
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+.info p:nth-child(2):after,
+.info p:nth-child(4):after{
+    color: #f00;
+    margin-left: 3px;
+}
+.wrap-body p input{
+    width: 180px;
+    height: 26px;
+    margin-left: 13px;
+    text-indent: 8px;
+}
+.wrap-body p select{
+    min-width: 100px;
+    margin-left: 10px;
+    padding: 4px;
+}
+.wrap-body p textarea{
+    margin-left: 10px;
+}
+.wrap-body .btn input[type="button"]{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: 600;
+    background: #4E93BB;
+    color: #fff;
+    cursor: pointer;
+}
+.wrap-body div.btn{
+    margin-top: 30px;
+    padding-left: 240px;
+}
+.btn input[type="button"]:hover
+{
+    background: #4EAABB;
+}

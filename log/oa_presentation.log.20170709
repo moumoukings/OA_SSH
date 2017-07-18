@@ -1,0 +1,197 @@
+[2017-07-09 16:55:31,219] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 16:55:31,220] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 16:55:31,261] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 16:59:47,218] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 16:59:47,219] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 16:59:47,256] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:06:23,140] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:06:23,141] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:06:23,177] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:07:53,398] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:07:53,400] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:07:53,439] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:12:58,730] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:12:58,732] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:12:58,793] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:18:20,375] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:18:20,377] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:18:20,442] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:18:23,974] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 开始查询，相应信息为：
+[2017-07-09 17:18:23,974] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 开始查询，相应信息为：
+[2017-07-09 17:20:00,548] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:20:00,551] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:20:00,987] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:20:03,916] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:20:03,916] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:23:48,236] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:23:48,237] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:23:48,281] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:23:50,679] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:23:50,679] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:24:56,043] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:24:56,043] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:26:18,942] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:27:29,302] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:27:29,303] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:27:29,351] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:27:31,716] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:27:31,716] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:29:15,362] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:29:15,363] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:29:15,405] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:29:18,220] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:29:18,220] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:31:06,154] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:31:06,154] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:31:06,157] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:31:07,941] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:31:50,564] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:31:50,565] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:31:50,568] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:31:52,969] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:31:52,969] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:32:16,853] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:32:16,854] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:32:16,857] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:32:18,009] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:33:35,762] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:33:36,323] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:34:19,756] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:34:19,756] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:34:19,807] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:34:21,316] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:34:21,316] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:41:46,679] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:41:46,683] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:41:46,719] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:41:51,149] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:41:51,149] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:44:17,655] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:44:17,657] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:44:17,696] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:44:21,385] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:44:21,385] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:47:12,710] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:47:12,714] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:47:12,775] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:47:14,739] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:47:14,739] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:49:34,642] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:49:34,644] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:49:34,687] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:49:36,023] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:49:36,023] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:53:49,686] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 17:53:49,688] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 17:53:49,730] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 17:53:51,546] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 17:53:51,546] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:03:11,256] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:03:11,258] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:03:11,359] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:03:13,122] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:03:13,122] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:06:01,581] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:06:01,583] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:06:01,641] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:06:05,980] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:06:05,980] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:08:10,919] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:08:10,920] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:08:10,967] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:08:12,148] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:08:12,148] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:09:26,506] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:09:26,508] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:09:26,558] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:09:29,713] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:09:29,713] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:09:51,949] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:09:51,949] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:10:56,224] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:10:56,226] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:10:56,260] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:10:59,950] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:10:59,950] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:12:38,160] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:12:38,162] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:12:38,217] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:12:39,562] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:12:39,562] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:13:25,598] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:13:25,598] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:13:25,601] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:13:27,807] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:13:27,807] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:16:48,615] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:16:48,619] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:16:48,715] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:16:50,219] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:16:50,219] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:19:31,444] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:19:31,449] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:19:31,485] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:19:34,469] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:19:34,469] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:20:49,624] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:20:49,625] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:20:49,656] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:20:51,094] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:20:51,094] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:24:23,888] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:24:23,892] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:24:23,942] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:24:26,548] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:24:26,548] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:25:47,288] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:25:47,288] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:26:39,414] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:26:39,414] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:27:36,970] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:27:36,971] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:27:36,975] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:27:38,912] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:27:38,912] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:28:04,101] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:28:04,102] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:28:04,106] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:28:05,468] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:28:05,468] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:30:47,831] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 18:30:47,831] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 18:30:47,835] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 18:30:49,129] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:30:49,129] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:32:08,361] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:32:08,361] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:32:11,076] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-09 18:32:11,076] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-09 18:32:14,534] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:32:14,534] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 18:32:16,013] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-09 18:32:16,013] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：1个。
+[2017-07-09 18:32:24,611] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：4个。
+[2017-07-09 18:32:24,611] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：4个。
+[2017-07-09 23:40:30,494] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 23:40:30,496] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 23:40:30,527] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 23:40:33,188] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:40:33,188] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:40:42,754] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 23:40:42,754] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 23:40:42,757] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 23:40:44,435] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 23:40:44,435] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 23:40:44,437] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 23:40:50,316] DEBUG [com.jboa.action.RoleAction]: 开始查询角色权限
+[2017-07-09 23:40:50,316] DEBUG [com.jboa.action.RoleAction]: 角色ID为：3
+[2017-07-09 23:40:50,318] DEBUG [com.jboa.action.RoleAction]: 获取列表的长度为： 19
+[2017-07-09 23:41:13,293] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:41:13,293] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:41:16,970] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:41:16,970] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:41:18,448] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
+[2017-07-09 23:41:18,448] DEBUG [com.jboa.action.employee.EmployeeInitAction]: 获取到的实体共：3个。
